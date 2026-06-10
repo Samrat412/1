@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://downloadhub4u-clb.pages.dev/sitemap.xml
