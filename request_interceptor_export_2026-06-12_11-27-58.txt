@@ -1,0 +1,2592 @@
+=== Request Interceptor Export ===
+Exported: 2026-06-12T11:27:58.977Z
+Total: 69
+Sort: newest
+Filter: (none)
+Exclude: (none)
+Redacted: yes
+
+============================================================
+#1  GET  https://ice.bright67.online/?m3u8=16507a9e4f834a982f1db0421897b24a238befcc8035493857958f0778995598f9d75dc0860398127d1ced883d6d83bb2591bda97a21b1b5260d18483625f67c7550976285e9e2c1f34e0a434d110371e8b707e181ce6d1f32f46009adb98e107a327200f213633d2dcffbce95538dcc11480933dc248a7856e576867dd60f965d9eff212a8a8250fefcb92a049cad47f86c3d0a6f488a0b1f15cd46db86e0f03eb8c221dcc976cfdde8603640549384826d78c39f15dbf65d963b96ba7b7c5628a2b3811b0a097734d5b2a31c1cf256d9ceb9&h=930836ede79a423244f0dd0fe71a0c45479df342d6dd96eff527b7d66d06fd0b5e708f35733045fbbf3cdf948ab5387b76e477a0dcb6a75c2168bcd8c4403ca868aca1587118f451cffbe665515106c3966f7918cef57622e1fd779f2c7b4f8102
+------------------------------------------------------------
+--- REQUEST ---
+GET /?m3u8=16507a9e4f834a982f1db0421897b24a238befcc8035493857958f0778995598f9d75dc0860398127d1ced883d6d83bb2591bda97a21b1b5260d18483625f67c7550976285e9e2c1f34e0a434d110371e8b707e181ce6d1f32f46009adb98e107a327200f213633d2dcffbce95538dcc11480933dc248a7856e576867dd60f965d9eff212a8a8250fefcb92a049cad47f86c3d0a6f488a0b1f15cd46db86e0f03eb8c221dcc976cfdde8603640549384826d78c39f15dbf65d963b96ba7b7c5628a2b3811b0a097734d5b2a31c1cf256d9ceb9&h=930836ede79a423244f0dd0fe71a0c45479df342d6dd96eff527b7d66d06fd0b5e708f35733045fbbf3cdf948ab5387b76e477a0dcb6a75c2168bcd8c4403ca868aca1587118f451cffbe665515106c3966f7918cef57622e1fd779f2c7b4f8102 HTTP/1.1
+Host: ice.bright67.online
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Origin: https://cinesrc.st
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+
+--- RESPONSE ---
+No response data available.
+
+============================================================
+#2  GET  https://ice.bright67.online/?m3u8=d6336ac686166701e6c6d2708d511126cb80c18e6cd3d517ae61e30c0903445736eaf2df447ad443b16bb6b576e03c72e2db16b5846c77dbcfd45e1ccef6e55cc65abdbc4bd328b395c88fcae5a2f640b41ad91e59d3f4a38b8eb8fafb318dbea6c5cb86370b1ac4b4259802470424d569da05c27acaa7eb381ab1edca20d9cb7889ce2ea8b3d9af2c170e56435992eae01020a49a5f4aa8f97b919c2a47518028f15ff584f4e50c2f37568c6dacb04e92fcfbd62ea3843353aa2b99363f4fb003f49b2fb95c0adfd419bb33df2d&h=930836ede79a423244f0dd0fe71a0c45479df342d6dd96eff527b7d66d06fd0b5e708f35733045fbbf3cdf948ab5387b76e477a0dcb6a75c2168bcd8c4403ca868aca1587118f451cffbe665515106c3966f7918cef57622e1fd779f2c7b4f8102
+------------------------------------------------------------
+--- REQUEST ---
+GET /?m3u8=d6336ac686166701e6c6d2708d511126cb80c18e6cd3d517ae61e30c0903445736eaf2df447ad443b16bb6b576e03c72e2db16b5846c77dbcfd45e1ccef6e55cc65abdbc4bd328b395c88fcae5a2f640b41ad91e59d3f4a38b8eb8fafb318dbea6c5cb86370b1ac4b4259802470424d569da05c27acaa7eb381ab1edca20d9cb7889ce2ea8b3d9af2c170e56435992eae01020a49a5f4aa8f97b919c2a47518028f15ff584f4e50c2f37568c6dacb04e92fcfbd62ea3843353aa2b99363f4fb003f49b2fb95c0adfd419bb33df2d&h=930836ede79a423244f0dd0fe71a0c45479df342d6dd96eff527b7d66d06fd0b5e708f35733045fbbf3cdf948ab5387b76e477a0dcb6a75c2168bcd8c4403ca868aca1587118f451cffbe665515106c3966f7918cef57622e1fd779f2c7b4f8102 HTTP/1.1
+Host: ice.bright67.online
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Origin: https://cinesrc.st
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+date: Fri, 12 Jun 2026 09:50:55 GMT
+content-type: application/vnd.apple.mpegurl
+access-control-allow-origin: *
+cache-control: no-store
+access-control-allow-headers: *
+access-control-allow-methods: GET, OPTIONS
+content-encoding: gzip
+server: cloudflare
+cf-ray: a0a7f43678cfff73-BOM
+X-Firefox-Spdy: h2
+
+
+
+============================================================
+#3  POST  https://cinesrc.st/embed/movie/550
+------------------------------------------------------------
+--- REQUEST ---
+POST /embed/movie/550 HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: text/x-component
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+next-action: 005c1831881fa9060af420dcf7dd75f7a157a0bd59
+next-router-state-tree: %5B%22%22%2C%7B%22children%22%3A%5B%22embed%22%2C%7B%22children%22%3A%5B%5B%22type%22%2C%22movie%22%2C%22d%22%5D%2C%7B%22children%22%3A%5B%5B%22id%22%2C%22550%22%2C%22d%22%5D%2C%7B%22children%22%3A%5B%22__PAGE__%22%2C%7B%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%2Ctrue%5D
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 2
+Origin: https://cinesrc.st
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Cookie: <REDACTED>
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+[]
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:50:54 GMT
+content-type: text/x-component
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+content-encoding: gzip
+server: cloudflare
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding
+cf-cache-status: DYNAMIC
+priority: u=4,i=?0
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=54jEDkaywdLcDvgOsS7M3c4tPmZzle3f3EW7%2BRe6XQz1VJ0SUJEldM9w2UuA7HVpXsi78xJtlTp8tGLU7edjuVQk%2FLsMDDEgZ2baGtjEUtNURTKC3ptgSj94Chq7%2BmR5N8DHjGjCNGhk"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: a0a7f43668a6ff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#4  POST  https://cinesrc.st/embed/movie/550
+------------------------------------------------------------
+--- REQUEST ---
+POST /embed/movie/550 HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: text/x-component
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+next-action: 7ed77d2f3795e4c8ddd788b3413d051461dfc75442
+next-router-state-tree: %5B%22%22%2C%7B%22children%22%3A%5B%22embed%22%2C%7B%22children%22%3A%5B%5B%22type%22%2C%22movie%22%2C%22d%22%5D%2C%7B%22children%22%3A%5B%5B%22id%22%2C%22550%22%2C%22d%22%5D%2C%7B%22children%22%3A%5B%22__PAGE__%22%2C%7B%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%2Ctrue%5D
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 3528
+Origin: https://cinesrc.st
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Cookie: <REDACTED>
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+["550","movie","$undefined","$undefined","s1~FLhRLHvYaZ0PxLJVZwnTGChgi3Y/IZQ6NxdyXw8OW+Nncj+qnZK4jYilXV8zrwrGg1zUx3iXtA/lkgkjzHjVpHx4gp5zg2ZZovJvYIP4ks7qJ3bwu+P2usTXHlT1CmWl5SAaKyMNGA8yM95/u7Z6Yzf+Terb76ZDqHuBSXT2ZhB2OwBZu8utiRJfVyZ7HEgtULMyHu6NouxZRUeEGcd1kVNZ8GFRuFcjYAsD9LNxIo8/dsOQl0VuU3PmlasGmbcBFxAeiTbfULFo3icXNaybqhX83duF2roeZKExllkSX2U7w3UqoJ1Pre/FzMINRHv8oXtvHsD4astLLb34k3OREA==~Yz8ctSzG58RZHI8b~Uo+/ws/XefrqbwmtggQKqsOjIwwU7/RAdxFkh49t7q4pp9TdNx2aKZyA1Uokshj8i5d7dZhjzHkmzkGDIkV8KZ5RwwLiMTiiqOAjFFGFKdik+Vzz0GZl8BORDC0LF/TfmlP3ChqX4Q3u5gFqMC2Ca9Ffb7NnY5w06Ur7KpyXan5MNpYJhYHxQTtShYgFp7A+4YQxsKOFgMEGqyvlPpoLJb7Vxp7EvySMXrB612rqz5t195Ym04Fczef4XBGyN4syDTSg7J/Z4YCRS+ty0skM8+dwTqGFqoq4XWlrEM10xpipby1wlgAVYFkoA1gxjEI/v85hOEqq5JIJceO1RMoPBOoCUJAf9XHLYSsFJCkSeIpejt36KMvEbEL9eu8eyG13A4e50Pe+BlJ6Gm6uULruZEajG18RUZ3zB9oilGrFBsf48uVTtg4iVHgtCfxCjwtvdHyXwop0hqqDbOBihegWq2RrCcg4DRNLOVVW2sPKutTBBbSGvegWzxCh9IKNIv8ShHWID83mEe99g3c0+1Tx/Ovq4R7Wv5C+n/Bu4JezaL8Te0+6eqpug4vJp9Ed0iXULjP4RomDvBgjuivzNTSL1s5BMl15DT4vA4rLvmBT0n9OLmm8Wo4Sm0Wc3D5uwPPdPhzOjJtprGmywjLx5dP8uxKfYnFFHGMDTGjXRRtquhNe6FdJjLvtCG394QjwvMZ3PIx8NRHHrbTy7dJq8af0LpedyoaWKWdw4Xjbx5IYko8509Gum7sbWsAbMBfR7t8bYt1lp6yQyKBZGVbMu84sg1n3mRqCyFp+CFdXRtTF5Q+v76GXqdohuqIrPlWa9wypeL+ScLftcF7zW37J/qXoadt2NrmI8Powe/yv1eFc4pU9u+u2tq6aGB0v/JJzTp1Z+xhYpDTHl74Lq6xtQRaTxThmX8xdyntXGj1ZgLb1dKOU2srRPflVUBEb8hihCgTkBAx55VnKhd722Nt6/swLUhsjf0v568ogWBBTt3PGGtgvk1S4kqqfZ9weKn1HdmeHzMx8g3pWX0pmsB/UY5BYk0bqHqZ7gE4IugkgXvI8S/l5Il0rxleEPoZABYQG7KiATvel0O38zjIxw9G3DMtBk9f6vwQg02tH1A==::c2::c2~JN6oEN0pMsHTs4OOZpPpNB-Wo8DZ2zXSEFbdZ51uozuhVurLEGCX47Zf3bPwNwWRUL5rVUa881cU88jZP_wsNXovRiiDqa44skpfdCVqMmvP39mXiUixZMZEwzQ2nBHHGszRjLF5eXcWRxE4Daf9WrnTDT2zmF0Gp4WRhg5ELEk~ZON9REHLiL9Y9guw~b6NEolE_wMO3ie1kg2pL0H_QsDGKmBa3bZ_K-58Aj2WG3HTgyL9oh1ZticRAXafa5Te7ulWGfQBe5VaIHDCB8GlpFwkJ6kDAVZSdHclK5HYeIt-XHKCsYbfuAfNo7yYWxzA-7Z7kwrv-H8U-tM3b6gnl-Nc18tqzuxIDK07xKukZR6SnNF43SOZXkGj26PwLF1bhXJ5KSgJU3PF7E7aHdCsgeGI8tIpa_uZBORUJz6P9lLAYwjyzVE53mKRzpLRpDP5zWFA4yhXIW3V32Q6MTGLcHGf1o3X2JMVJJZsd-arlDY5TYXIdBrpEFCTCm0ZkG6k1vRYmyMjILpDS--yauNRXSzgaIHnRS-aK60_TLKPrnoGUjd5RsXQ20ZI6aqXPI-bNVfezLQUp290ozt77RAe5L1t3uijnJDRK0losVLXu2DANBqO8pmnFpB0eKDazM1RCtONhUr5-WzsayHbjZkReauujwEI0XBct3Lh2F-KMSA-AXa8LQUJxDN_c2yuKAy974txsHncHmFbzNt3dr7JhG0VBHUjgQpRCUDHwG_JBislnhO22hvwxsadS3FhMWt6PMz0Wqoa8rTvLr07hRzGuSGwMuFDvRI9YFTLppRLmN2d4BbaUyTAtu0Ygk6wod0vsXg60esyzYMJaP0p6e4tUGTdm4d4rXDA6O8o5mz0pfZQP2bw3ikxcfJhEXWHd3qTSif7nA8TJsI7byxPLLvvgdDxnVUe_s4AKI2z_NfFPB9X-jAGF9NSo25D54b7q3GKjGFCmNFZ6MuggYFLYsRGPJt1XmmcXODqb1bvmiAx7-jJfHQsIN4jcGZczSskjtrt5euOgG4BCx5bHry9-ajFwsEWsJym4bBbfYQSABfX4ElxEce-vdja-kpsMrhFWOuIppIaW5L-IFWzDQXy8Pj258tA0QOyDCQdUxjAgOUmq6RuFSoEUrlFiLf3B2pt5vNkdXgU88fNvIiOhxwQQGjxFYxZ7daOzT5GnHOzgqXzAPpJDq-PZIgs7TtzdZIR5rs7KbibD54X0hXYa4OM9jdaq7rQxeSekBDtK7sKTaBtcimVQK_Y7K8yJSOTJRqWmZNVvckPZu_fEgqlIw1zUiJnfPVFzQfQsbSHeyauQAedr0RsQxtxa2RaJaNH58_gdF_7AaT1nZT27aYeXhT3HyhOKt0DRWYBrtabPpoa_pgsXSujb_dg2uo9DzFIrihYxCUSq3KDRz36rCKYkuGrehbdp6seSlAbsQTV8-V4gAYUpOp_eey9sG7a0KM1ep7sBfVFyghktUbo0NCAzASrkyNSpS2KA0LAGiOROVxuxEATcZwbeq5XyBi70H0SnqiMHIk1XejzSiXeDcvEn9_xTC6nv7faReImFyUxwsgHVIi_UKewzyJXlpphNlSH4mvHsnjOR7B3Mzq-zM2MJ9IWIOeNg_pWYrCUULEWuS8Mchgdmzy2g5wax2JkcPTLguzu7SKVnnsSF5nFwO68yljIndn60dtJdP9M6Br5N91e2d35dxAA3ZD_pkadcGqxqn0ZGQWUQD39HqzfFLOSiY-444NXtUmOnGbU4mrOU4TOhxfpVMZQ245KpYfROGCAmqCiH3jf-n1ptFJXHl3WgNEnEireCMqB6NIsVtLqGjuzwl2U9PlVOD5k8NW6rMtGXAEKUI_zTpg::c3::v1.jwvCtbuioP0ixzXgDnf3tukOJLQErUFN.mqaqsx1d.GuZFPzM1M_H33F2lNWkz69dc.YNrxeDkBbIurflIaxlvW8sXXX1f7528aopeCscK3KAo","surge"]
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:50:54 GMT
+content-type: text/x-component
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+content-encoding: gzip
+server: cloudflare
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding
+cf-cache-status: DYNAMIC
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=B2DSb8gInTZ2vvvawlW%2Blc1LM8patL38dVHLAf8utCK1i9rIIDq8NUC7HUCcP0keblWmaitC1dYqpHuqs5LKT13sQFVpK60odTVs5b6%2FLOrPzOjGyqH3m1iC0VFWG4PP39MtknLqQi56"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+priority: u=4,i=?0
+cf-ray: a0a7f42d390bff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#5  GET  https://cinesrc.st/api/c/stage2/issue
+------------------------------------------------------------
+--- REQUEST ---
+GET /api/c/stage2/issue HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+x-cs-r: v1.jwvCtbuioP0ixzXgDnf3tukOJLQErUFN.mqaqsx1d.GuZFPzM1M_H33F2lNWkz69dc.YNrxeDkBbIurflIaxlvW8sXXX1f7528aopeCscK3KAo
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Cookie: <REDACTED>
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:50:49 GMT
+content-type: application/json
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+server: cloudflare
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+cf-cache-status: DYNAMIC
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=VwOxdmoWuUlIyK2Sil0FQ96PuOUfSKtqSRp0UQqT1Vq1NZS0%2B5D19g%2FOTyZOZNW%2BZQKwdymmtt6IPyqct6cFsEdJU7rAyKZkDX5TkBp2aC8Nz0Z9mql54IVL8dmwzV9RVoEhk%2Bw8a3%2FE"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+priority: u=4,i=?0
+content-encoding: zstd
+cf-ray: a0a7f41229f8ff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#6  GET  https://cinesrc.st/api/c/issue
+------------------------------------------------------------
+--- REQUEST ---
+GET /api/c/issue HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+x-cs-p: eyJ2IjoxLCJuIjoia2VNU0NOM05wYlYtcXlpS1R3d0JFcG84IiwidCI6MTc4MTI1Nzg0ODIwNX0.JvFvXzkI43eIJ5ii5y9pOszpjglSw3Wg7XY2BC2ZRFU
+x-cs-q: WyJtb3ZpZSIsIjU1MCIsbnVsbCxudWxsXQ
+x-cs-r: v1.jwvCtbuioP0ixzXgDnf3tukOJLQErUFN.mqaqsx1d.GuZFPzM1M_H33F2lNWkz69dc.YNrxeDkBbIurflIaxlvW8sXXX1f7528aopeCscK3KAo
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Cookie: <REDACTED>
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:50:48 GMT
+content-type: application/json
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+server: cloudflare
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+cf-cache-status: DYNAMIC
+priority: u=4,i=?0
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2zQvL6pBx%2FEqYvTW5JDCta7ky6g5bK0YpBWnakjnXUrrLWe9p0%2BEs5fQvfn4w1H5GdJaJcpXNc5DLxrU7lSnvgLeSQ37%2BiXyPRyp%2FJHNq6kMPFbA2N0LsE5rzPube7sPUUUSOQ470%2FfC"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+content-encoding: zstd
+cf-ray: a0a7f4100c89ff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#7  POST  https://cinesrc.st/api/c/bootstrap
+------------------------------------------------------------
+--- REQUEST ---
+POST /api/c/bootstrap HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+x-cs-q: WyJtb3ZpZSIsIjU1MCIsbnVsbCxudWxsXQ
+Origin: https://cinesrc.st
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Cookie: <REDACTED>
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:50:48 GMT
+content-type: application/json
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+server: cloudflare
+set-cookie: <REDACTED>
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+cf-cache-status: DYNAMIC
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=QJQ57kbMh%2FIxwvXLDM3HvehjXLoyy99TsycboBG%2Be7U7DT4r6gqW75RAZg%2FEYkE2lxu2R63AXAesdKFh%2BYCrGFAAtyDHF%2FrLk5%2BguCrRaFmBq5dMAjBb6zYEZwAf84%2BGmFg5xqOfpAxt"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+priority: u=0,i=?0
+content-encoding: zstd
+cf-ray: a0a7f40e788eff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#8  GET  https://nebula.bright67.online/hls/195a125d-c77f-4824-84b4-96a6b20d0ea3/1080p/playlist_004.png
+------------------------------------------------------------
+--- REQUEST ---
+GET /hls/195a125d-c77f-4824-84b4-96a6b20d0ea3/1080p/playlist_004.png HTTP/1.1
+Host: nebula.bright67.online
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Origin: https://cinesrc.st
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+date: Fri, 12 Jun 2026 09:50:37 GMT
+content-type: image/png
+access-control-allow-origin: *
+cache-control: public, max-age=31536000
+last-modified: Fri, 12 Jun 2026 09:50:37 GMT
+expires: Sat, 12 Jun 2027 09:50:37 GMT
+cf-cache-status: MISS
+server: cloudflare
+cf-ray: a0a7f3c7581cff73-BOM
+X-Firefox-Spdy: h2
+
+
+
+============================================================
+#9  GET  https://nebula.bright67.online/hls/195a125d-c77f-4824-84b4-96a6b20d0ea3/1080p/playlist_003.jpg
+------------------------------------------------------------
+--- REQUEST ---
+GET /hls/195a125d-c77f-4824-84b4-96a6b20d0ea3/1080p/playlist_003.jpg HTTP/1.1
+Host: nebula.bright67.online
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Origin: https://cinesrc.st
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+date: Fri, 12 Jun 2026 09:50:35 GMT
+content-type: image/jpeg
+access-control-allow-origin: *
+cache-control: public, max-age=31536000
+age: 83456
+last-modified: Thu, 11 Jun 2026 10:39:38 GMT
+expires: Sat, 12 Jun 2027 09:50:35 GMT
+cf-cache-status: HIT
+server: cloudflare
+cf-ray: a0a7f3bf28e5ff73-BOM
+X-Firefox-Spdy: h2
+
+
+
+============================================================
+#10  GET  https://subs.bright67.online/c/de0c0b4f/id/28633?format=srt&encoding=MacRoman&m=eyJpbWRiIjoidHQwMTM3NTIzIiwibGFuZyI6ImVuIiwiZGlzcGxheSI6IkVuZ2xpc2giLCJmbXQiOiJzcnQiLCJlbmMiOiJNYWNSb21hbiIsInNyYyI6Im9wZW5zdWJ0aXRsZXMiLCJtZWRpYSI6IkZpZ2h0IENsdWIiLCJoaSI6IjAiLCJmb3JjZWQiOiIwIiwiZnBzIjoiMjUiLCJvaWQiOiIyODYzMyJ9
+------------------------------------------------------------
+--- REQUEST ---
+GET /c/de0c0b4f/id/28633?format=srt&encoding=MacRoman&m=eyJpbWRiIjoidHQwMTM3NTIzIiwibGFuZyI6ImVuIiwiZGlzcGxheSI6IkVuZ2xpc2giLCJmbXQiOiJzcnQiLCJlbmMiOiJNYWNSb21hbiIsInNyYyI6Im9wZW5zdWJ0aXRsZXMiLCJtZWRpYSI6IkZpZ2h0IENsdWIiLCJoaSI6IjAiLCJmb3JjZWQiOiIwIiwiZnBzIjoiMjUiLCJvaWQiOiIyODYzMyJ9 HTTP/1.1
+Host: subs.bright67.online
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Origin: https://cinesrc.st
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+date: Fri, 12 Jun 2026 09:50:11 GMT
+content-type: text/plain; charset=utf-8
+access-control-allow-origin: *
+cache-control: public, max-age=31536000, immutable
+access-control-allow-headers: Content-Type, Accept
+access-control-allow-methods: GET, OPTIONS
+content-encoding: gzip
+server: cloudflare
+cf-ray: a0a7f328aaeeff73-BOM
+X-Firefox-Spdy: h2
+
+
+
+============================================================
+#11  GET  https://nebula.bright67.online/hls/195a125d-c77f-4824-84b4-96a6b20d0ea3/1080p/playlist_002.jpeg
+------------------------------------------------------------
+--- REQUEST ---
+GET /hls/195a125d-c77f-4824-84b4-96a6b20d0ea3/1080p/playlist_002.jpeg HTTP/1.1
+Host: nebula.bright67.online
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Origin: https://cinesrc.st
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+date: Fri, 12 Jun 2026 09:50:33 GMT
+content-type: image/jpeg
+access-control-allow-origin: *
+cache-control: public, max-age=31536000
+age: 9
+last-modified: Fri, 12 Jun 2026 09:50:23 GMT
+expires: Sat, 12 Jun 2027 09:50:33 GMT
+cf-cache-status: HIT
+server: cloudflare
+cf-ray: a0a7f3b39ffbff73-BOM
+X-Firefox-Spdy: h2
+
+
+
+============================================================
+#12  GET  https://nebula.bright67.online/hls/195a125d-c77f-4824-84b4-96a6b20d0ea3/1080p/playlist_001.png
+------------------------------------------------------------
+--- REQUEST ---
+GET /hls/195a125d-c77f-4824-84b4-96a6b20d0ea3/1080p/playlist_001.png HTTP/1.1
+Host: nebula.bright67.online
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Origin: https://cinesrc.st
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+date: Fri, 12 Jun 2026 09:50:14 GMT
+content-type: image/png
+access-control-allow-origin: *
+cache-control: public, max-age=31536000
+last-modified: Fri, 12 Jun 2026 09:50:14 GMT
+expires: Sat, 12 Jun 2027 09:50:14 GMT
+cf-cache-status: MISS
+server: cloudflare
+cf-ray: a0a7f3349adbff73-BOM
+X-Firefox-Spdy: h2
+
+
+
+============================================================
+#13  GET  https://nebula.bright67.online/hls/195a125d-c77f-4824-84b4-96a6b20d0ea3/1080p/playlist_000.jpg
+------------------------------------------------------------
+--- REQUEST ---
+GET /hls/195a125d-c77f-4824-84b4-96a6b20d0ea3/1080p/playlist_000.jpg HTTP/1.1
+Host: nebula.bright67.online
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Origin: https://cinesrc.st
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+date: Fri, 12 Jun 2026 09:50:07 GMT
+content-type: image/jpeg
+access-control-allow-origin: *
+cache-control: public, max-age=31536000
+last-modified: Fri, 12 Jun 2026 09:50:07 GMT
+expires: Sat, 12 Jun 2027 09:50:07 GMT
+cf-cache-status: HIT
+server: cloudflare
+cf-ray: a0a7f3119e42ff73-BOM
+X-Firefox-Spdy: h2
+
+
+
+============================================================
+#14  GET  https://nebula.bright67.online/hls/195a125d-c77f-4824-84b4-96a6b20d0ea3/1080p/init.mp4
+------------------------------------------------------------
+--- REQUEST ---
+GET /hls/195a125d-c77f-4824-84b4-96a6b20d0ea3/1080p/init.mp4 HTTP/1.1
+Host: nebula.bright67.online
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Origin: https://cinesrc.st
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+date: Fri, 12 Jun 2026 09:50:07 GMT
+content-type: video/mp4
+access-control-allow-origin: *
+cache-control: public, max-age=31536000
+last-modified: Fri, 12 Jun 2026 09:50:07 GMT
+expires: Sat, 12 Jun 2027 09:50:07 GMT
+cf-cache-status: HIT
+server: cloudflare
+cf-ray: a0a7f3110cc6ff73-BOM
+X-Firefox-Spdy: h2
+
+
+
+============================================================
+#15  GET  https://nebula.bright67.online/hls/195a125d-c77f-4824-84b4-96a6b20d0ea3/1080p/playlist.jpg
+------------------------------------------------------------
+--- REQUEST ---
+GET /hls/195a125d-c77f-4824-84b4-96a6b20d0ea3/1080p/playlist.jpg HTTP/1.1
+Host: nebula.bright67.online
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Origin: https://cinesrc.st
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+date: Fri, 12 Jun 2026 09:50:07 GMT
+content-type: image/jpeg
+content-length: 29143
+access-control-allow-origin: *
+cache-control: public, max-age=31536000
+accept-ranges: bytes
+last-modified: Fri, 12 Jun 2026 09:50:07 GMT
+expires: Sat, 12 Jun 2027 09:50:07 GMT
+cf-cache-status: MISS
+server: cloudflare
+cf-ray: a0a7f30b5e3dff73-BOM
+X-Firefox-Spdy: h2
+
+
+
+============================================================
+#16  GET  https://nebula.bright67.online/hls/195a125d-c77f-4824-84b4-96a6b20d0ea3/master.m3u8
+------------------------------------------------------------
+--- REQUEST ---
+GET /hls/195a125d-c77f-4824-84b4-96a6b20d0ea3/master.m3u8 HTTP/1.1
+Host: nebula.bright67.online
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Origin: https://cinesrc.st
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+date: Fri, 12 Jun 2026 09:50:06 GMT
+content-type: image/jpeg
+content-length: 200
+access-control-allow-origin: *
+cache-control: public, max-age=31536000, immutable
+cf-cache-status: DYNAMIC
+server: cloudflare
+cf-ray: a0a7f308bf7aff73-BOM
+X-Firefox-Spdy: h2
+
+
+
+============================================================
+#17  POST  https://cinesrc.st/embed/movie/550
+------------------------------------------------------------
+--- REQUEST ---
+POST /embed/movie/550 HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: text/x-component
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+next-action: 005c1831881fa9060af420dcf7dd75f7a157a0bd59
+next-router-state-tree: %5B%22%22%2C%7B%22children%22%3A%5B%22embed%22%2C%7B%22children%22%3A%5B%5B%22type%22%2C%22movie%22%2C%22d%22%5D%2C%7B%22children%22%3A%5B%5B%22id%22%2C%22550%22%2C%22d%22%5D%2C%7B%22children%22%3A%5B%22__PAGE__%22%2C%7B%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%2Ctrue%5D
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 2
+Origin: https://cinesrc.st
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Cookie: <REDACTED>
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+[]
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:50:33 GMT
+content-type: text/x-component
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+content-encoding: gzip
+server: cloudflare
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding
+cf-cache-status: DYNAMIC
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=0b1CJ9%2FRi8hygsLBfIzdWlPcZsPtIrWbBkV6R5Szilbzk5eLFyTG9sZtTKJd4axXmUcw1sbY8Jt3RjWX4iODT7E9TJdc9zswhhIZ0SwbdYLWUVWRCwlnniV1iZ3ksYWp4eh%2BvmvSG%2FGV"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+priority: u=4,i=?0
+cf-ray: a0a7f3b1c9d5ff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#18  GET  https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1
+------------------------------------------------------------
+--- REQUEST ---
+GET /cv/js/sender/v1/cast_sender.js?loadCastFramework=1 HTTP/3.0
+Host: www.gstatic.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Sec-Fetch-Storage-Access: none
+Alt-Used: www.gstatic.com
+Connection: keep-alive
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+accept-ranges: bytes
+vary: Accept-Encoding
+content-encoding: gzip
+content-type: text/javascript
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/cloudview
+cross-origin-resource-policy: cross-origin
+cross-origin-opener-policy: same-origin; report-to="cloudview"
+report-to: {"group":"cloudview","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/cloudview"}]}
+content-length: 2007
+date: Fri, 12 Jun 2026 09:47:17 GMT
+expires: Fri, 12 Jun 2026 09:47:17 GMT
+cache-control: private, max-age=3000
+last-modified: Tue, 16 Feb 2021 23:57:06 GMT
+x-content-type-options: nosniff
+server: sffe
+x-xss-protection: 0
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+X-Firefox-Spdy: h2
+
+
+
+============================================================
+#19  GET  https://subs.bright67.online/search?id=550
+------------------------------------------------------------
+--- REQUEST ---
+GET /search?id=550 HTTP/1.1
+Host: subs.bright67.online
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Origin: https://cinesrc.st
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+date: Fri, 12 Jun 2026 09:50:08 GMT
+content-type: application/json
+access-control-allow-origin: *
+cache-control: public, max-age=604800, immutable
+access-control-allow-headers: Content-Type, Accept
+access-control-allow-methods: GET, OPTIONS
+content-encoding: gzip
+server: cloudflare
+cf-ray: a0a7f306eabdff73-BOM
+X-Firefox-Spdy: h2
+
+
+
+============================================================
+#20  POST  https://cinesrc.st/embed/movie/550
+------------------------------------------------------------
+--- REQUEST ---
+POST /embed/movie/550 HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: text/x-component
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+next-action: 7ed77d2f3795e4c8ddd788b3413d051461dfc75442
+next-router-state-tree: %5B%22%22%2C%7B%22children%22%3A%5B%22embed%22%2C%7B%22children%22%3A%5B%5B%22type%22%2C%22movie%22%2C%22d%22%5D%2C%7B%22children%22%3A%5B%5B%22id%22%2C%22550%22%2C%22d%22%5D%2C%7B%22children%22%3A%5B%22__PAGE__%22%2C%7B%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%2Ctrue%5D
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 3529
+Origin: https://cinesrc.st
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Cookie: <REDACTED>
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+["550","movie","$undefined","$undefined","s1~ccgvoIc5vain4hdfocpmSSpHbS3ocGWNGj4E84+MitmnVoX+E1Rn1XlB4kcsNh+MmkXys5Ftv9DJdj98YzDQqTvZ31HwAh7/HFKgz1H+eJKcgh5ivCHQBvAalKfJRucRbbARXMSAtBZvOSSlQvDdhn0rpjmLaOWkvhKC6byH8c5+KeQGSd21zYrlDUYd2vAh/5pB4aVEr92wWNhvoeDAbIo8Tiwr88XTWMbfFk8KYvT2RWh2bym7BCHBFWWQEKT2HVUbk8kX/jXw/4cPXh4oWlLbXW6f7Qg1rOUtTfrYSHDyl3FkDTows4IKMtZk77L1uW1GnVwBJywkIl4rNrIU9w==~xT8Y7jFxQTUSGslY~Q4Gm9rpPDcFIOZrilOhzyABjP41I+IFTiUaMvG+F6g29q/Xb9Ds8K4m6lQH4DXqxMeJGcBWSQJwPUSLP89JImA3j3KsAIO1v+EkTGQIP5al0CQuZ84yUPafO13KwT9ciQVjD44ULvH7Y01naqWwyy2MHmkwngyOkIWk1WAu9zL8AtK5XPx0NCNdgVCm88Uzo3iF0lL+v0CVsRG1M02SXZ+ON6q6Eqp0SdcHGxeDfknW7Xn656X/qGPYcSLTnWTfo1bbk7ZuevsVfpE2dLfxOF5pnNsK4ErKxkCpoNTdQKKzVTTRKgpcAYlvQYoP9MeLnaluYeQXXCmgNCc3YXnZxIs9knAyK6jOHaBpR+P444hmpJfhT+v47ol2Nj2vQW5RXHZhbvzN8WVvO4XJ7HuKAs3IBSfWOJ5/bwWzoAJUicl9uB6/7RkBqHtDNk3tDPNTlpGakFRLSS0LSD5cuBbA0Jgt8v9+cMkzBFBpgBb78Y4Yrq4hoSRhvOiFY0zAv//iapCgdNvOkUik7wU7A+YewQzBmShTwRPtqrtdRhIV6HjQS24Ltd/uZ8feo8KkEuFG9Mt72TYHOzSVO5Lz4gNMkyPfVK+J0DcZuMAKdxMBjBJClc+VVDrzUElntQJdqD2/xTCpEpLdZHAAqXiIs0zeBXvZS35OLbJLLim5IlhwBT8efuvrfIeXIRv9a0eJ0T2dwgiKRbxulSyZuXXXv3bwjW0pTUZD/CNtdDx/bupME5omT+I0v3x78j9AokjaVetKQDl8bRhD/Cv88XOdAsYMcIok+zmHdE7CO1ozqxchYDvPa281MAogyKX4ZwKsT8GcdDqX929jVTWzuDMwLSY4l1LpRYTuTp1yAs3F8gLyr0lKjuR8Ffvy82QcClyaLvQ/xvKpkMWPfxt7V61ofxVgsW9i07P3Kyo9l/EUsGWG4LYghgnbhQ5WRzVfDY2TMT3cz9aG3b7+bBhnzflqNMsc5XfTcbu3JtnZ7DbJFp6v3AyLL3tPU9sTBtMKSX5JFnbwxVL4ShgvcoOzNI6W6IJm3skscRaTlq9h2Hzfb6b+neG61LOSltDAnuPNFqYNiltLc1j4RjvuHmtQWVxyoF1BGVAUtNT0ByXK7BsRP::c2::c2~Le51roCDNaN_oHz6tLnQpNrmiuYNwT0MYLbY7zsf_sCfq-8kMgkC6wdaFz1jxZxEEiiYgV3JhuNOP5TB5rdsvGYAbJcS-zK1g4Z5XZo7XhrCUkHJYNbnDXISESJ_AJxDJZryWjjjh4Ir2pKFFTT-qhDkBdkc8VdLJwZfH_8tOW4~N7CHiy6ujHEqhBKm~BsYsvkOvGFlohLZHe2vfA0ATn85ryKdwWlY1hXiikzPp_vsQMYwtH9Gq9Ly5TD-Kz2Ircj2YC4AX-ncHWtarwAuJ_t4tbdbOOrtO1l8yOFFvgY2z2bZd1o-Vh1Llx5su3gnFZdWnnXQdNpC3jBVZhKBPVrV-LtbMJu9OrxHWynsmQWO48JiuRTD45v0XKsVn31xibGyJmKFOUKDmRhL13MZDoBFPny8cXFmnvJou5fpuEof5V73RqVUq4Ok_7RQieiOX8RAI4bOBEA5rS1KxGCi9JwnO6OdhqyGwGehaXAak18K8Psk2WULU99i9jDdkz5hoiFlU1R3OzxPKj7QLb5ymVKnScqVUtmaCBs8z5casctCGCHOCOkls3yjml-oicga2YKGXWxNV20hgefYvc2v2_fJUx3hkOpxjpjlOjOss5ju_UDHhypUBE8QXfKdhhduUdyXD-_mFAMlEEWcvdhaPzVgQVB0w3QrzmN_LkGRCvHLFd26y46L1tkxrTMhSLSRDsvcqwiowf0LzGudulY2s6HWu7bk_1SCT-YzT_9aXQYdBMl5xlVl2ld8DnX7xedlPl1Iugy_BXoO27_UhuvJnYikJlAiaFjYpaBP1lupVjUQhXkahzONPSIb1SvcAfAbtRoEqwPz2U63RuusU5hwDj-nAwelsie3xYt_80E_IdH-WUsjBii0u6SoGXqP0FzC_7BqxqbyI-A5XhSlQxZ7a-8yDAREizP_rouszKQujKMB58INjYdOqWehtdi3HTpLiqjSlJBqfy8RnyZifLuyoOSNm1ZmBniLfYfgdj6gk_HftSYx_ycL739HrFZfFSlEQIiqRsm9C8fwS3LYJ9gSQ-711eg1xelzz0UWsGeYw4GFhk72aZ8BTQO6FPTadRXGp1-KBPPCaFf6ZhU1N2bR76QAgMbV11uhQIkzgsr4qKgcgMNZGaqIeXDrT9-kK0UUBPz8g1z9ECs2p4txlwOSOPh7U50udhPtgDeTQ5rYChnE61-g2mhQ8ySO0aTZCKcMXL2If0jRGzvwp4L4S6cScsNCNci50n9sFlx_mbBri9-Gb4EsA-CAUmG-pWuKJ3ERlaWKfvtnpdXGusS7WK0wAUV8IXHzqVlyQHBxgtYW7JIqJbZo8XAkdo5q0jGuAbaBmyrmVbqiHLeIcSo6wNP37ZEYBPLYfVjLVu2Ev4cJp1ZdUkYZd3yRP1517mlixHDTRl_q0kQ63SeNB4HPfyF9c-TmxaF4YYpGqYEbS55PhwLyQVAvqFB1iKNYkoFOcKftv7CYECpLYUSLz5DnUgaID3ACwiy5KcFxxe5D0EtqOAaH5G5KFo89JzH7Hq80B5dHaqSWP7KbMJa5myUm_6Q96dILGQ0Fzn_dpVORm5z7Ncz5rHIj4r1rL_pJoKsmSU_G3sI5F7-9xhxHTajwkrx0e5KiuVwD46gyJiDyAdCVpwm_4Y2vG_Bqd9TvVzdwcE3eJZT8TbOQzaD-52TwxziO-TsVmc5xXxO3KiTTKwtvrfYl0NIyojY4iizWHvu3k5lzKO1nrdTWAHqzqJp3zEDNdLdSsT2cmxV84ExvV5yYhPekmNk8H6RWqmI2gbpQPMA5SsFFVzhZfa_7C2twjwiIBa-rh_iGDcxRAAryi9xcT6tN8n32B-YBAYeKaK2Y7u3PL9Q::c3::v1.jwvCtbuioP0ixzXgDnf3tukOJLQErUFN.mqaqsx1d.GuZFPzM1M_H33F2lNWkz69dc.YNrxeDkBbIurflIaxlvW8sXXX1f7528aopeCscK3KAo","nebula"]
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:50:33 GMT
+content-type: text/x-component
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+content-encoding: gzip
+server: cloudflare
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding
+cf-cache-status: DYNAMIC
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=GAzhyl6nUz2%2Byp0UkUxPCDVztwGM34dBjc0ANYiGMaizaWtIIxsg8bl5TBK83wIdo9timzkn1GRb51Dvqu3fHBa%2BSy4uNakWBWCJre4z4wpYKMBaoPORx7gnNpuRMPpnKPOnQYEBnLhx"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+priority: u=4,i=?0
+cf-ray: a0a7f3afbc31ff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#21  GET  https://cinesrc.st/api/c/stage2/issue
+------------------------------------------------------------
+--- REQUEST ---
+GET /api/c/stage2/issue HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+x-cs-r: v1.jwvCtbuioP0ixzXgDnf3tukOJLQErUFN.mqaqsx1d.GuZFPzM1M_H33F2lNWkz69dc.YNrxeDkBbIurflIaxlvW8sXXX1f7528aopeCscK3KAo
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Cookie: <REDACTED>
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:50:30 GMT
+content-type: application/json
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+server: cloudflare
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+cf-cache-status: DYNAMIC
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zvD3ExdZAjITPTqO0H4vCJXIjt3f%2F6oP8p%2FWr2K9c%2BI8VtA7qRQ6YviYi46oL%2Fmv9Z5UiberdwSZg3w76g2YatxX6BBlX2VYGTYVrgHOVPT0aQvhrg3IwH6gwebIkeU7Zh1M7wMaIar8"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+priority: u=4,i=?0
+content-encoding: zstd
+cf-ray: a0a7f3a059ffff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#22  GET  https://cinesrc.st/api/c/pk
+------------------------------------------------------------
+--- REQUEST ---
+GET /api/c/pk HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Cookie: <REDACTED>
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:50:30 GMT
+content-type: application/json
+cache-control: public, max-age=300, s-maxage=300
+server: cloudflare
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+cf-cache-status: DYNAMIC
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=k1Q%2FZUBw3hprAxohnhz5Ur37pMtLAi5pLPtXjwU5%2FY87FAXwmQOk%2BuioKfK041qPIy0zqJFG%2B%2FXlWAaGe7lIXiq%2BsZ0EpuxYOPL%2BMrK2KgO4eyJ%2F0v84YQ5yNeoHlcNpx%2FU0rFAv161o"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+priority: u=4,i=?0
+content-encoding: zstd
+cf-ray: a0a7f39e9de3ff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#23  GET  https://cinesrc.st/pow-v2.wasm
+------------------------------------------------------------
+--- REQUEST ---
+GET /pow-v2.wasm HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Cookie: <REDACTED>
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:48:59 GMT
+content-type: application/wasm
+accept-ranges: bytes
+cache-control: public, max-age=0
+content-encoding: gzip
+etag: W/"25b5-19eb8595c30"
+last-modified: Thu, 11 Jun 2026 20:22:04 GMT
+server: cloudflare
+vary: Accept-Encoding
+cf-cache-status: DYNAMIC
+priority: u=4,i=?0
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=4sA%2Fx9zdHLI5hhjw3xfpvLVXMFibfVWHgruPj4B9Wq19fw88xfryv26YSGo7Fz2ajQwzum7iagtDvB%2Faa3j0Zludh7wRCvFXLYatKobMWfM87dVHUwJ%2FSP1qXmNxEmnySeRB6soosvms"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: a0a7f166c9a3ff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#24  GET  https://cinesrc.st/pow-worker-v2.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /pow-worker-v2.js HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Cookie: <REDACTED>
+Sec-Fetch-Dest: worker
+Sec-Fetch-Mode: same-origin
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:48:59 GMT
+content-type: application/javascript; charset=UTF-8
+accept-ranges: bytes
+cache-control: public, max-age=300
+content-encoding: gzip
+etag: W/"d8b7-19eb8595c30"
+last-modified: Thu, 11 Jun 2026 20:22:04 GMT
+server: cloudflare
+vary: Accept-Encoding
+cf-cache-status: REVALIDATED
+priority: u=4,i=?0
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Cbg3KfTvNggQjBppCyvcTerOIfXd9uRIgZQ%2F%2BeY4L2%2B3U9s8ve5PVyJLMurj6zUtlzW8GjzMR8cbbqA9wTZ2Wx8NME46rzbbEKzg6URqEsPvi4ITKw1UwbpXTnM0TueLaKpnrifJObMy"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: a0a7f162bfc0ff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#25  GET  https://cinesrc.st/api/c/issue
+------------------------------------------------------------
+--- REQUEST ---
+GET /api/c/issue HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+x-cs-p: eyJ2IjoxLCJuIjoiMHlmdnVxdUNwTVIyNnU1MG01QjAxTUVXIiwidCI6MTc4MTI1NzgyOTcxMX0.W4bOtyIepIwDGH0nAk0og4TGIQ9_ODHasKllf2LFHc8
+x-cs-q: WyJtb3ZpZSIsIjU1MCIsbnVsbCxudWxsXQ
+x-cs-r: v1.jwvCtbuioP0ixzXgDnf3tukOJLQErUFN.mqaqsx1d.GuZFPzM1M_H33F2lNWkz69dc.YNrxeDkBbIurflIaxlvW8sXXX1f7528aopeCscK3KAo
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Cookie: <REDACTED>
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:50:30 GMT
+content-type: application/json
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+server: cloudflare
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+cf-cache-status: DYNAMIC
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=id4awMIIcACzhDodIgAk02ELtfkDYh7YESIUMkjFN1w%2FIvXLdAgNBfr%2BQyjZOXlRP3sx0OrXcu9jykoRp%2FrUBaTjkFKxcgvc9aUvqN2FiiT7hcgTUSLsT8tfydjnqNTHDRY3y1SH3IQJ"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+priority: u=4,i=?0
+content-encoding: zstd
+cf-ray: a0a7f39c7885ff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#26  POST  https://cinesrc.st/api/c/bootstrap
+------------------------------------------------------------
+--- REQUEST ---
+POST /api/c/bootstrap HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+x-cs-q: WyJtb3ZpZSIsIjU1MCIsbnVsbCxudWxsXQ
+Origin: https://cinesrc.st
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Cookie: <REDACTED>
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:50:29 GMT
+content-type: application/json
+cache-control: no-store, no-cache, must-revalidate
+pragma: no-cache
+server: cloudflare
+set-cookie: <REDACTED>
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+cf-cache-status: DYNAMIC
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Jvj41FX8CZWpBu9dAQxknZhPqx0LkMS0ESunUq2drRAmylT3HM%2FOB9ORdFh3mskjQn%2F4noZoB9fp1f42vHonU2vRPp1cgSOAE5vgsp4%2BHW%2F8MpVQIegMQAOjXdbmy90Q6shRxlribD4q"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+priority: u=4,i=?0
+content-encoding: zstd
+cf-ray: a0a7f39aebb4ff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#27  GET  https://cinesrc.st/110626-prod.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /110626-prod.js HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Cookie: <REDACTED>
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:47:11 GMT
+content-type: application/javascript; charset=UTF-8
+accept-ranges: bytes
+cache-control: public, max-age=300
+content-encoding: gzip
+etag: W/"877c6-19eb8595c2f"
+last-modified: Thu, 11 Jun 2026 20:22:04 GMT
+server: cloudflare
+vary: Accept-Encoding
+cf-cache-status: REVALIDATED
+priority: u=3,i=?0
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rluR1zGcFMFnKNIW5zPVKv65QxhTobpf2qZovA%2FiZCpMbuggbancLDJ6hMMq9lEQ8GkXa2DJHkWGLwfX3W3NWyyNiXSb2iFhWLVPS8nlg5ZvJg25NwSwijPdExaKO3MAueodMdssYwkJ"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: a0a7eebf6c89ff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#28  GET  https://hrrnddpvfyzrj.online/35b28ef?bkIK4vPRtxtJ0iukNTxqHN89=Y2JwYWdlPWh0dHBzJTNBJTJGJTJGY2luZXNyYy5zdCUyRmVtYmVkJTJGbW92aWUlMkY1NTAmY2J1cj0wLjQ4NDQxNTUwODAxMTA5MDcmcj0xMTQwMTgwNiZidHA9MC4wMSZzcnM9MDRlNGIzYzllODg3MTY0MzU5N2E1NjI4MTUzYjllZDImYWJ0Zz0xJmZtdD1zdXY1JnRzPTE3ODEyNTc4MzA3ODImY2JyZWY9JnVmcD1XaW4zMiUyRk1vemlsbGElMkZOZXRzY2FwZSUyRnRydWUlMkZmYWxzZSUyRjE5MjB4MTA4MC0zMzBlbi1VU3Vua25vd24xMjI0JTIwYml0cyZzYWRibD0yJmNiV2lkdGg9MTkyMCZjYkhlaWdodD05MzYmY2J0aXRsZT1DaW5lU3JjJTIwLSUyMEZyZWUlMjBWaWRlbyUyMFN0cmVhbWluZyUyMEFQSSUyMCU3QyUyMEVtYmVkJTIwTW92aWVzJTIwJTI2JTIwVFYlMjBTaG93cyZjYmNkbj13d3B2cGJrdGdvZXRzLnNwYWNlJmFkYnY9My1jZG4tanMmY2JrZXl3b3Jkcz12aWRlbyUyMHN0cmVhbWluZyUyMEFQSSUyQ2VtYmVkJTIwbW92aWVzJTJDZW1iZWQlMjBUViUyMHNob3dzJTJDZnJlZSUyMHN0cmVhbWluZyUyQ1RNREIlMkNtb3ZpZSUyMEFQSSUyQ1RWJTIwc2hvdyUyMEFQSSUyQ3N0cmVhbWluZyUyMGVtYmVkJTJDQ2luZVNyYyUyQ1NodXR0bGVUViUyQ3ZpZHNyYyUyQ21vdmllc2FwaSUyMGNsdWImY2JpZnJhbWU9MCZhdHY9ODIuMi1wYiZjYmRlc2NyaXB0aW9uPUNpbmVTcmMlMjBvZmZlcnMlMjBhJTIwZnJlZSUyMHZpZGVvJTIwc3RyZWFtaW5nJTIwQVBJJTIwd2l0aCUyMG1pbmltYWwlMjBhZHMuJTIwRWFzaWx5JTIwZW1iZWQlMjBtb3ZpZXMlMjBhbmQlMjBUViUyMHNob3dzJTIwaW50byUyMHlvdXIlMjB3ZWJzaXRlJTIwdXNpbmclMjBUTURCJTIwSURzLiUyMEJ1aWx0JTIwYnklMjB0aGUlMjBTaHV0dGxlVFYlMjB0ZWFtLg%3D%3D
+------------------------------------------------------------
+--- REQUEST ---
+GET /35b28ef?bkIK4vPRtxtJ0iukNTxqHN89=Y2JwYWdlPWh0dHBzJTNBJTJGJTJGY2luZXNyYy5zdCUyRmVtYmVkJTJGbW92aWUlMkY1NTAmY2J1cj0wLjQ4NDQxNTUwODAxMTA5MDcmcj0xMTQwMTgwNiZidHA9MC4wMSZzcnM9MDRlNGIzYzllODg3MTY0MzU5N2E1NjI4MTUzYjllZDImYWJ0Zz0xJmZtdD1zdXY1JnRzPTE3ODEyNTc4MzA3ODImY2JyZWY9JnVmcD1XaW4zMiUyRk1vemlsbGElMkZOZXRzY2FwZSUyRnRydWUlMkZmYWxzZSUyRjE5MjB4MTA4MC0zMzBlbi1VU3Vua25vd24xMjI0JTIwYml0cyZzYWRibD0yJmNiV2lkdGg9MTkyMCZjYkhlaWdodD05MzYmY2J0aXRsZT1DaW5lU3JjJTIwLSUyMEZyZWUlMjBWaWRlbyUyMFN0cmVhbWluZyUyMEFQSSUyMCU3QyUyMEVtYmVkJTIwTW92aWVzJTIwJTI2JTIwVFYlMjBTaG93cyZjYmNkbj13d3B2cGJrdGdvZXRzLnNwYWNlJmFkYnY9My1jZG4tanMmY2JrZXl3b3Jkcz12aWRlbyUyMHN0cmVhbWluZyUyMEFQSSUyQ2VtYmVkJTIwbW92aWVzJTJDZW1iZWQlMjBUViUyMHNob3dzJTJDZnJlZSUyMHN0cmVhbWluZyUyQ1RNREIlMkNtb3ZpZSUyMEFQSSUyQ1RWJTIwc2hvdyUyMEFQSSUyQ3N0cmVhbWluZyUyMGVtYmVkJTJDQ2luZVNyYyUyQ1NodXR0bGVUViUyQ3ZpZHNyYyUyQ21vdmllc2FwaSUyMGNsdWImY2JpZnJhbWU9MCZhdHY9ODIuMi1wYiZjYmRlc2NyaXB0aW9uPUNpbmVTcmMlMjBvZmZlcnMlMjBhJTIwZnJlZSUyMHZpZGVvJTIwc3RyZWFtaW5nJTIwQVBJJTIwd2l0aCUyMG1pbmltYWwlMjBhZHMuJTIwRWFzaWx5JTIwZW1iZWQlMjBtb3ZpZXMlMjBhbmQlMjBUViUyMHNob3dzJTIwaW50byUyMHlvdXIlMjB3ZWJzaXRlJTIwdXNpbmclMjBUTURCJTIwSURzLiUyMEJ1aWx0JTIwYnklMjB0aGUlMjBTaHV0dGxlVFYlMjB0ZWFtLg%3D%3D HTTP/1.1
+Host: hrrnddpvfyzrj.online
+
+
+
+--- RESPONSE ---
+No response data available.
+
+============================================================
+#29  GET  https://adexchangerapid.com/script/suurl5.php?r=11401806&cbur=0.6470145969760306&cbiframe=0&cbWidth=1920&cbHeight=936&cbtitle=CineSrc%20-%20Free%20Video%20Streaming%20API%20%7C%20Embed%20Movies%20%26%20TV%20Shows&cbpage=https%3A%2F%2Fcinesrc.st%2Fembed%2Fmovie%2F550&cbref=&cbdescription=CineSrc%20offers%20a%20free%20video%20streaming%20API%20with%20minimal%20ads.%20Easily%20embed%20movies%20and%20TV%20shows%20into%20your%20website%20using%20TMDB%20IDs.%20Built%20by%20the%20ShuttleTV%20team.&cbkeywords=video%20streaming%20API%2Cembed%20movies%2Cembed%20TV%20shows%2Cfree%20streaming%2CTMDB%2Cmovie%20API%2CTV%20show%20API%2Cstreaming%20embed%2CCineSrc%2CShuttleTV%2Cvidsrc%2Cmoviesapi%20club&cbcdn=wwpvpbktgoets.space&ufp=Win32%2FMozilla%2FNetscape%2Ftrue%2Ffalse%2F1920x1080-330en-USunknown1224%20bits&ts=1781257830762&srs=04e4b3c9e8871643597a5628153b9ed2&atv=82.2-pb&btp=0.01&abtg=1&adbv=3-cdn-js
+------------------------------------------------------------
+--- REQUEST ---
+GET /script/suurl5.php?r=11401806&cbur=0.6470145969760306&cbiframe=0&cbWidth=1920&cbHeight=936&cbtitle=CineSrc%20-%20Free%20Video%20Streaming%20API%20%7C%20Embed%20Movies%20%26%20TV%20Shows&cbpage=https%3A%2F%2Fcinesrc.st%2Fembed%2Fmovie%2F550&cbref=&cbdescription=CineSrc%20offers%20a%20free%20video%20streaming%20API%20with%20minimal%20ads.%20Easily%20embed%20movies%20and%20TV%20shows%20into%20your%20website%20using%20TMDB%20IDs.%20Built%20by%20the%20ShuttleTV%20team.&cbkeywords=video%20streaming%20API%2Cembed%20movies%2Cembed%20TV%20shows%2Cfree%20streaming%2CTMDB%2Cmovie%20API%2CTV%20show%20API%2Cstreaming%20embed%2CCineSrc%2CShuttleTV%2Cvidsrc%2Cmoviesapi%20club&cbcdn=wwpvpbktgoets.space&ufp=Win32%2FMozilla%2FNetscape%2Ftrue%2Ffalse%2F1920x1080-330en-USunknown1224%20bits&ts=1781257830762&srs=04e4b3c9e8871643597a5628153b9ed2&atv=82.2-pb&btp=0.01&abtg=1&adbv=3-cdn-js HTTP/1.1
+Host: adexchangerapid.com
+
+
+
+--- RESPONSE ---
+No response data available.
+
+============================================================
+#30  POST  https://usrpubtrk.com/ut/hb.php?cb=0.1379924152011176&v=1
+------------------------------------------------------------
+--- REQUEST ---
+POST /ut/hb.php?cb=0.1379924152011176&v=1 HTTP/1.1
+Host: usrpubtrk.com
+
+{"clientHints":{},"isScrollable":0,"totalClicks":0,"sessionLength":0,"ippMissclicks":0,"visible":1,"caught":0,"lastevent":0,"isFullscreen":0,"isTabFocused":1,"eventImps":0,"retryCounts":0,"isScrolled":0,"isMouseMoved":0,"pagePercentageSeen":100,"belowTheFoldSeen":100,"touchEnd":0,"touchMove":0,"clicksByType":{"idle":0,"input":0,"video":0,"button":0,"link":0,"img":0},"ufp":"Win32/Mozilla/Netscape/true/false/1920x1080-330en-USunknown1224 bits","sessionStartTime":1781257831,"sessionId":"<REDACTED>","timeZoneOffset":-330,"zones":[],"pUrl":"https%3A%2F%2Fcinesrc.st%2Fembed%2Fmovie%2F550","pReferrer":"","pTitle":"CineSrc%20-%20Free%20Video%20Streaming%20API%20%7C%20Embed%20Movies%20&%20TV%20Shows","pDescription":"CineSrc%20offers%20a%20free%20video%20streaming%20API%20with%20minimal%20ads.%20Easily%20embed%20movies%20and%20TV%20shows%20into%20your%20website%20using%20TMDB%20IDs.%20Built%20by%20the%20ShuttleTV%20team.","pKeywords":"video%20streaming%20API%2Cembed%20movies%2Cembed%20TV%20shows%2Cfree%20streaming%2CTMDB%2Cmovie%20API%2CTV%20show%20API%2Cstreaming%20embed%2CCineSrc%2CShuttleTV%2Cvidsrc%2Cmoviesapi%20club","pHasIframes":0,"pWidth":1920,"pHeight":936,"vWidth":1920,"vHeight":936,"inIframe":0,"bsd":"eyJwcm9iYWJpbGl0eSI6MC4wMSwicGVyU2lnbmFsIjp7ImRvZXNVQUNvbnRhaW5IZWFkbGVzc0tleXdvcmQiOmZhbHNlLCJpc1dlYkRyaXZlclByZXNlbnQiOmZhbHNlLCJpc0NEUERldGVjdGVkIjpmYWxzZSwiYXV0b21hdGVkQnJvd3Nlckdsb2JhbHMiOmZhbHNlLCJpc1dpbmRvd0NEQyI6ZmFsc2UsImlzRmlyZWZveE1pc21hdGNoIjpmYWxzZSwiaW5jb25zaXN0ZW5jaWVzIjpmYWxzZSwiaXNDaHJvbWVGb3JUZXN0aW5nIjpmYWxzZSwibWlzc2luZ1dlYlJUQyI6ZmFsc2UsImRldGVjdENTU0Fub21hbGllcyI6ZmFsc2UsImlzSGVhZGxlc3NQZXJtaXNzaW9uTWF0Y2hlZCI6ZmFsc2UsInN1c1VzZXJJbnB1dCI6ZmFsc2V9fQ==","sentTimestamp":1781257830776}
+
+--- RESPONSE ---
+No response data available.
+
+============================================================
+#31  GET  https://cinesrc.st/burger.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /burger.js HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Cookie: <REDACTED>
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:47:10 GMT
+content-type: application/javascript; charset=UTF-8
+accept-ranges: bytes
+cache-control: public, max-age=300
+content-encoding: gzip
+etag: W/"99a38-19eb2d350e6"
+last-modified: Wed, 10 Jun 2026 18:37:33 GMT
+server: cloudflare
+vary: Accept-Encoding
+cf-cache-status: REVALIDATED
+priority: u=1,i=?0
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=FxTTRgpwWvGzGpvzQT8cxVxeyTwvGMdHLyy8Ot4RNe4EYrfkt5kE9SpGQidpx5rZptcNBkK63mCUm7X%2FCSOe3seIXz3rmw5%2B2ZbtmPOTfNW7vRuSLt5Zljt5p5wkpM7PPsPliAujHgeg"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: a0a7eeb96bb7ff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#32  GET  https://cinesrc.st/donut.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /donut.js HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Cookie: <REDACTED>
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:47:10 GMT
+content-type: application/javascript; charset=UTF-8
+accept-ranges: bytes
+cache-control: public, max-age=300
+content-encoding: gzip
+etag: W/"9acd-19eb2d350ea"
+last-modified: Wed, 10 Jun 2026 18:37:33 GMT
+server: cloudflare
+vary: Accept-Encoding
+cf-cache-status: REVALIDATED
+priority: u=3,i=?0
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=HrThNN5%2FhaWJ3YQXbG7ei2rFsIZRJXFA1c5icbLmIXb4Cho%2BYGExkpc%2FsFzel9beabK9I3eVYT4P64B7TgNikilhfAWbH7xmfwow9LIBD8CEK5K2lP2EsIF1HIAhKCDpiMTiO9IKVusH"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: a0a7eeb96bb0ff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#33  POST  https://cinesrc.st/embed/movie/550
+------------------------------------------------------------
+--- REQUEST ---
+POST /embed/movie/550 HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: text/x-component
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+next-action: 005c1831881fa9060af420dcf7dd75f7a157a0bd59
+next-router-state-tree: %5B%22%22%2C%7B%22children%22%3A%5B%22embed%22%2C%7B%22children%22%3A%5B%5B%22type%22%2C%22movie%22%2C%22d%22%5D%2C%7B%22children%22%3A%5B%5B%22id%22%2C%22550%22%2C%22d%22%5D%2C%7B%22children%22%3A%5B%22__PAGE__%22%2C%7B%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%5D%7D%2Cnull%2Cnull%2Ctrue%5D
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 2
+Origin: https://cinesrc.st
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Cookie: <REDACTED>
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+[]
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:50:28 GMT
+content-type: text/x-component
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+content-encoding: gzip
+server: cloudflare
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding
+cf-cache-status: DYNAMIC
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=iJhViEDAeVYTt2LagUy1AmEtBhm%2B7EzPm3hSKZ%2BVsjDhRYMMeHvB2y%2BaYCtVQvI%2Bs4mKDZs%2BVlICOVuidExOinTpDXvAbXt9kEemFZuYDVKkOrSx5iypKuFxnNPnhWytW2y3QihW0fwW"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+priority: u=4,i=?0
+cf-ray: a0a7f37b4dddff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#34  GET  https://cinesrc.st/_next/static/chunks/4a33078819110219.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /_next/static/chunks/4a33078819110219.js HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Cookie: <REDACTED>
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:47:09 GMT
+content-type: application/javascript; charset=UTF-8
+accept-ranges: bytes
+cache-control: public, max-age=31536000, immutable
+content-encoding: gzip
+etag: W/"ec4d-19eb8598a79"
+last-modified: Thu, 11 Jun 2026 20:22:16 GMT
+server: cloudflare
+vary: Accept-Encoding
+age: 46892
+cf-cache-status: HIT
+priority: u=3,i=?0
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Uq7alY4Vcc5pq%2FuhCF1YPBK7MAfQ%2BdMSsragjF8yWaRX5cddu5SZF%2B%2B%2BhcGzoF3UJFVZfhehWR9voWLvbKzuu9wtf7vpPi1dW74KTXe%2FTKwDFPrRvKmvAyz3oG6lTBN5slZwfLLcoPeE"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: a0a7eeb7dfd7ff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#35  GET  https://api.themoviedb.org/3/movie/550/images?api_key=2799a709bcb08967701e88df3fd71fcd&include_image_language=en,null
+------------------------------------------------------------
+--- REQUEST ---
+GET /3/movie/550/images?api_key=<REDACTED>&include_image_language=en,null HTTP/3.0
+Host: api.themoviedb.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Origin: https://cinesrc.st
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+content-type: application/json;charset=utf-8
+alt-svc: h3=":443"; ma=86400
+access-control-expose-headers: *
+date: Fri, 12 Jun 2026 09:50:00 GMT
+cache-control: public, max-age=19215
+content-encoding: gzip
+server: openresty
+x-gateway-cache-status: HIT
+etag: W/"5c1c651adca23f5d0c89450c2a8ad25a"
+x-az: us-east-1b
+x-task-id: f739448c86da43409d8907147fc1ed40
+x-cache: Miss from cloudfront
+via: 1.1 a22ebbb9b1f7705084a10a078264070e.cloudfront.net (CloudFront)
+x-amz-cf-pop: TLV55-P3
+access-control-allow-origin: *
+x-amz-cf-id: mMjv3oiQaVF2TBhsgtSbgJNc3PwsnFcTEuxfiQZF7EC0LkkUh6O3FA==
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#36  GET  https://cinesrc.st/_next/static/chunks/3de2cee500b19451.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /_next/static/chunks/3de2cee500b19451.js HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Cookie: <REDACTED>
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:47:09 GMT
+content-type: application/javascript; charset=UTF-8
+accept-ranges: bytes
+cache-control: public, max-age=31536000, immutable
+content-encoding: gzip
+etag: W/"829d-19eb8598a79"
+last-modified: Thu, 11 Jun 2026 20:22:16 GMT
+server: cloudflare
+vary: Accept-Encoding
+age: 46892
+cf-cache-status: HIT
+priority: u=3,i=?0
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=dNuZ2ekhC%2FcFdyd4SmBD5D7M645LOzGhZ8IAG1rVdENpwu9jkTHTrkymh4A0NTYrwoZJQh%2BxS59xekAB9dP2ACBXT99lvQLxQHANqPQ791GHabKwFnSRPEg9lQgl7khmbMxmxQIUFAGu"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: a0a7eeb7dfd6ff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#37  GET  https://api.themoviedb.org/3/movie/550?api_key=2799a709bcb08967701e88df3fd71fcd
+------------------------------------------------------------
+--- REQUEST ---
+GET /3/movie/550?api_key=<REDACTED> HTTP/3.0
+Host: api.themoviedb.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Origin: https://cinesrc.st
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+content-type: application/json;charset=utf-8
+access-control-expose-headers: *
+age: 6947
+date: Fri, 12 Jun 2026 07:54:13 GMT
+cache-control: public, max-age=13056
+content-encoding: gzip
+server: openresty
+x-gateway-cache-status: HIT
+etag: W/"004599d444b02a4310d9901878b61fce"
+x-az: us-east-1b
+x-task-id: 42854bb5d94d4a04a0958f838902b2a0
+x-cache: Hit from cloudfront
+via: 1.1 a22ebbb9b1f7705084a10a078264070e.cloudfront.net (CloudFront)
+x-amz-cf-pop: TLV55-P3
+access-control-allow-origin: *
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: 2MP8flcAtJaBB8_r0E-87CP2Y03A0YgkmKroXFqeKGOiWF9rcA0W-w==
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#38  GET  https://cinesrc.st/_next/static/chunks/49cc1115b6d27ff2.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /_next/static/chunks/49cc1115b6d27ff2.js HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Cookie: <REDACTED>
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:47:09 GMT
+content-type: application/javascript; charset=UTF-8
+accept-ranges: bytes
+cache-control: public, max-age=31536000, immutable
+content-encoding: gzip
+etag: W/"283b0-19eb8598a72"
+last-modified: Thu, 11 Jun 2026 20:22:16 GMT
+server: cloudflare
+vary: Accept-Encoding
+age: 15746
+cf-cache-status: HIT
+priority: u=3,i=?0
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=9PHD%2BjQd1mNLm%2FWRhJGw%2B%2BNflCusSwYIcPXa0sPsHW1Fo0A2igTax4uIwLQBXdMHTS3f%2BrknmRroMSKi%2F7qHDILuaVwFc5gfVRK3f89T4DWst0QrytVWNVNikggN2Le03hr8ScsGzf5s"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: a0a7eeb7dfd3ff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#39  GET  https://cinesrc.st/_next/static/chunks/c82eee7d006cf43e.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /_next/static/chunks/c82eee7d006cf43e.js HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Cookie: <REDACTED>
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:47:09 GMT
+content-type: application/javascript; charset=UTF-8
+accept-ranges: bytes
+cache-control: public, max-age=31536000, immutable
+content-encoding: gzip
+etag: W/"829d-19eb8598a73"
+last-modified: Thu, 11 Jun 2026 20:22:16 GMT
+server: cloudflare
+vary: Accept-Encoding
+age: 46892
+cf-cache-status: HIT
+priority: u=3,i=?0
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=8NjlXJCZ26tYp%2FMfyMmRryHzqKZ1rkb1hgVOSUY3gcNMHqiQTDuB5rQ%2BO3UfqpqoTdulKBe4nf7Zgj58cSidt08FhQctg68DgjhpGGvNkCK%2BIV%2B0r8hbkv1tYSOoz0YZ7ftPbzlBItsU"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: a0a7eeb7dfcfff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#40  GET  https://a.cineflix.st/js/pa-YfhvAp4Y0BV8sK6K2mYZX.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /js/pa-YfhvAp4Y0BV8sK6K2mYZX.js HTTP/1.1
+Host: a.cineflix.st
+
+
+
+--- RESPONSE ---
+No response data available.
+
+============================================================
+#41  GET  https://cinesrc.st/favicon.ico
+------------------------------------------------------------
+--- REQUEST ---
+GET /favicon.ico HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Cookie: <REDACTED>
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:48:52 GMT
+content-type: image/x-icon
+cache-control: public, max-age=300, must-revalidate
+server: cloudflare
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+x-nextjs-cache: HIT
+last-modified: Fri, 12 Jun 2026 09:48:52 GMT
+cf-cache-status: EXPIRED
+priority: u=6,i=?0
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=volTJXSs%2Fo7ol8xk%2FxhcFnrFmiGzpqNFUQzmtJh3PZQ54XYjfgsOm6DO7ZZq%2FbrVkJHdtveAhieo%2FfX3DOGTdQrWru41ERNodproxLUFifwdS3mWb27N7q7yYKMIJ%2FmlfnvWOL2metO6"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+content-encoding: zstd
+cf-ray: a0a7f139be6dff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#42  GET  https://cinesrc.st/favicon.ico?favicon.29169b69.ico
+------------------------------------------------------------
+--- REQUEST ---
+GET /favicon.ico?favicon.29169b69.ico HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Cookie: <REDACTED>
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:48:52 GMT
+content-type: image/x-icon
+cache-control: public, max-age=300, must-revalidate
+server: cloudflare
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+x-nextjs-cache: HIT
+last-modified: Fri, 12 Jun 2026 09:48:52 GMT
+cf-cache-status: EXPIRED
+priority: u=6,i=?0
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=fo9IDz5AMihRkUxWA9hEeSMATPwPpvzcIFACC1kEhGeG%2Byn9SOa8YL2eQm1SAknv7H7qBCEpQACBsiBSckIfTrjJnxg96IWTQyKjVqiWGyUJu9EQAcp%2BNB%2F1JspflckUBHVIcnue7i25"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+content-encoding: zstd
+cf-ray: a0a7f139be6aff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#43  GET  https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447
+------------------------------------------------------------
+--- REQUEST ---
+GET /beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447 HTTP/1.1
+Host: static.cloudflareinsights.com
+
+
+
+--- RESPONSE ---
+No response data available.
+
+============================================================
+#44  GET  https://a.cineflix.st/js/pa-YfhvAp4Y0BV8sK6K2mYZX.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /js/pa-YfhvAp4Y0BV8sK6K2mYZX.js HTTP/1.1
+Host: a.cineflix.st
+
+
+
+--- RESPONSE ---
+No response data available.
+
+============================================================
+#45  GET  https://cinesrc.st/_next/static/chunks/850a110d632bde52.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /_next/static/chunks/850a110d632bde52.js HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Referer: https://cinesrc.st/embed/movie/550
+Cookie: <REDACTED>
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+date: Fri, 12 Jun 2026 09:46:41 GMT
+content-type: application/javascript; charset=UTF-8
+accept-ranges: bytes
+cache-control: public, max-age=31536000, immutable
+content-encoding: gzip
+etag: W/"17bd-19eb8598a7f"
+last-modified: Thu, 11 Jun 2026 20:22:16 GMT
+server: cloudflare
+vary: Accept-Encoding
+age: 13734
+cf-cache-status: HIT
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=xaDlYtcGll43mrnY6r8sPAI2SORQlRDsdP6AfokXWF4bVTffE1ko2t3yabvu5VNUI8cMALqn%2FlLYEvo235Z%2BzmkQgajcAWJGo%2BKl04axMjcOHWCOs%2BxEnzmTue55c6pL2Wqcug1rniUU"}]}
+cf-ray: a0a7ee0b8d74ff73-BOM
+alt-svc: h3=":443"; ma=86400
+X-Firefox-Spdy: h2
+
+
+
+============================================================
+#46  GET  https://cinesrc.st/_next/static/chunks/82833103ff1460c9.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /_next/static/chunks/82833103ff1460c9.js HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Referer: https://cinesrc.st/embed/movie/550
+Cookie: <REDACTED>
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:47:08 GMT
+content-type: application/javascript; charset=UTF-8
+accept-ranges: bytes
+cache-control: public, max-age=31536000, immutable
+content-encoding: gzip
+etag: W/"9f15-19eb8598a74"
+last-modified: Thu, 11 Jun 2026 20:22:16 GMT
+server: cloudflare
+vary: Accept-Encoding
+age: 46856
+cf-cache-status: HIT
+priority: u=3,i=?0
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lAwOS9LavQUUlDAAUM%2FP4sKN3DqMV%2BD9f98LKlUoiFYwFR7Brz2ihDBZ8DTvsFcnV3eeaQ%2F105gtpB5u2geBn8fsGi2NHA1fQEhXl1yF%2BQiCaAnJrv60RF0uD%2FsBOPTg9wb86yV%2FvqU%2F"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: a0a7eeb31ac3ff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#47  GET  https://cinesrc.st/_next/static/chunks/6ba0ee43c1f99b1b.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /_next/static/chunks/6ba0ee43c1f99b1b.js HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Referer: https://cinesrc.st/embed/movie/550
+Cookie: <REDACTED>
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:47:08 GMT
+content-type: application/javascript; charset=UTF-8
+accept-ranges: bytes
+cache-control: public, max-age=31536000, immutable
+content-encoding: gzip
+etag: W/"1aaad-19eb8598a6b"
+last-modified: Thu, 11 Jun 2026 20:22:16 GMT
+server: cloudflare
+vary: Accept-Encoding
+age: 46892
+cf-cache-status: HIT
+priority: u=3,i=?0
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2BNCiDr1yirRICJCcd8CwN59cBkxC2CFNenkCAnjq8wTCQLobzk82rkte5e040AZYkxCwVJplS4Cllcb88aH31rrriclrZJ3kh7dFMX%2B%2Bva2JsIx53PFIfRcHrFhdcMCXR3HBcusqzKCL"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: a0a7eeb31ac0ff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#48  GET  https://cinesrc.st/_next/static/chunks/b4385b7fe0f16afe.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /_next/static/chunks/b4385b7fe0f16afe.js HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Referer: https://cinesrc.st/embed/movie/550
+Cookie: <REDACTED>
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:47:08 GMT
+content-type: application/javascript; charset=UTF-8
+accept-ranges: bytes
+cache-control: public, max-age=31536000, immutable
+content-encoding: gzip
+etag: W/"b45af-19eb8598a81"
+last-modified: Thu, 11 Jun 2026 20:22:16 GMT
+server: cloudflare
+vary: Accept-Encoding
+age: 47405
+cf-cache-status: HIT
+priority: u=3,i=?0
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ThQwPStw9Z44jpB8oaMf%2FrrIUptBcear6SbS3e7ZObnoJH%2F8bL4CrFP34N6M5q11qkmMs6tvGHpAy3FNIg68EJPE7zohFxBJj4MZWMc5DVzd5s1wPyqyaOqNckqCsiCtJIqr%2BB8blKcv"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: a0a7eeb31abeff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#49  GET  https://cinesrc.st/_next/static/chunks/aa2adb997970a74e.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /_next/static/chunks/aa2adb997970a74e.js HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Referer: https://cinesrc.st/embed/movie/550
+Cookie: <REDACTED>
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:47:08 GMT
+content-type: application/javascript; charset=UTF-8
+accept-ranges: bytes
+cache-control: public, max-age=31536000, immutable
+content-encoding: gzip
+etag: W/"d83d-19eb8598a76"
+last-modified: Thu, 11 Jun 2026 20:22:16 GMT
+server: cloudflare
+vary: Accept-Encoding
+age: 46892
+cf-cache-status: HIT
+priority: u=3,i=?0
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=NeIaebQNTe7AiSA4CmuXNVw%2FOUZFKchL4z29MuDUXJlm6GYdFV5o3qew9Q1DVD%2FCTp91aXu2WrUJCRBrpB047WPjdRTL07U3IHv7owOPXx4%2FkhzdrIIr1MoDr0oaZYgD4FNyuEOUfA3q"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: a0a7eeb31abbff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#50  GET  https://cinesrc.st/_next/static/chunks/1b819da7e578a0de.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /_next/static/chunks/1b819da7e578a0de.js HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Referer: https://cinesrc.st/embed/movie/550
+Cookie: <REDACTED>
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:47:08 GMT
+content-type: application/javascript; charset=UTF-8
+accept-ranges: bytes
+cache-control: public, max-age=31536000, immutable
+content-encoding: gzip
+etag: W/"455c-19eb8598a79"
+last-modified: Thu, 11 Jun 2026 20:22:16 GMT
+server: cloudflare
+vary: Accept-Encoding
+age: 46856
+cf-cache-status: HIT
+priority: u=3,i=?0
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=WekCv2otiLCQ4XrJj8tDkNEeVs6lrBTkwgD4Tv33RJUA2%2BVMwoqRlVj5%2BQw8s6NiOE5cJpo6ldcWi9AdZw5ovSU4cRiarN3TzDc9rC8Tg7ZuEzOpb%2B2loNm1ed9sJaYd%2FRHeOj8wOBpd"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: a0a7eeb31ab7ff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#51  GET  https://cinesrc.st/_next/static/chunks/ad01bee8645099b6.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /_next/static/chunks/ad01bee8645099b6.js HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Referer: https://cinesrc.st/embed/movie/550
+Cookie: <REDACTED>
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+date: Fri, 12 Jun 2026 09:46:41 GMT
+content-type: application/javascript; charset=UTF-8
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2FlauSsWWjBzbRHDuRBM9xQcFdQGcXH404vzaP9K%2FbWb1eUKTMRzZvcoNWPv69gi7bc7lZ%2FwozDYRgjRwwvqShcILi4BttnXA7O1NHPjn1ldtk41rOkWOIoiikLC%2FE4u5tB6lZfrSkzjV"}]}
+cache-control: public, max-age=31536000, immutable
+etag: W/"226-19eb8598a7b"
+last-modified: Thu, 11 Jun 2026 20:22:16 GMT
+server: cloudflare
+vary: Accept-Encoding
+age: 46865
+cf-cache-status: HIT
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+speculation-rules: "/cdn-cgi/speculation"
+content-encoding: zstd
+cf-ray: a0a7ee0b8d5fff73-BOM
+alt-svc: h3=":443"; ma=86400
+X-Firefox-Spdy: h2
+
+
+
+============================================================
+#52  GET  https://cinesrc.st/_next/static/chunks/48ddb51b61c23f93.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /_next/static/chunks/48ddb51b61c23f93.js HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Referer: https://cinesrc.st/embed/movie/550
+Cookie: <REDACTED>
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+date: Fri, 12 Jun 2026 09:46:41 GMT
+content-type: application/javascript; charset=UTF-8
+accept-ranges: bytes
+cache-control: public, max-age=31536000, immutable
+content-encoding: gzip
+etag: W/"77d9-19eb8598a76"
+last-modified: Thu, 11 Jun 2026 20:22:16 GMT
+server: cloudflare
+vary: Accept-Encoding
+age: 46830
+cf-cache-status: HIT
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=cm45qdu2GomqhfuEdO549aCtglrKUwYIMgfu5mG5bYJlKb1aJ43Ua5eMjNqBXDo7eGhni881fTmyE9c1ikK6mkwgZv9qCkfmQ1bJfL%2BHRNtxF0XkoqzdNgYejhNfcuSgzJTZuEJ3vVRY"}]}
+cf-ray: a0a7ee0b8d5bff73-BOM
+alt-svc: h3=":443"; ma=86400
+X-Firefox-Spdy: h2
+
+
+
+============================================================
+#53  GET  https://cinesrc.st/_next/static/chunks/ff1a16fafef87110.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /_next/static/chunks/ff1a16fafef87110.js HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Referer: https://cinesrc.st/embed/movie/550
+Cookie: <REDACTED>
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+date: Fri, 12 Jun 2026 09:46:41 GMT
+content-type: application/javascript; charset=UTF-8
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=iwWxmAb8tmbZHpydfMF%2FSImGvatNXrj9tlfD5ob2DmHtHgwJkOs9jlhu7Z4b%2FhjnM1WgolG9aMIXyiP1WxXQnCQkrHoetQs59bp6wy8O5JvIg61rIZ7P13a1cdf7050Le1Zz1%2BJDsEfs"}]}
+cache-control: public, max-age=31536000, immutable
+etag: W/"11a-19eb8598a77"
+last-modified: Thu, 11 Jun 2026 20:22:16 GMT
+server: cloudflare
+vary: Accept-Encoding
+age: 46830
+cf-cache-status: HIT
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+speculation-rules: "/cdn-cgi/speculation"
+content-encoding: zstd
+cf-ray: a0a7ee0b8d57ff73-BOM
+alt-svc: h3=":443"; ma=86400
+X-Firefox-Spdy: h2
+
+
+
+============================================================
+#54  GET  https://cinesrc.st/_next/static/chunks/c49dea1758b0d67e.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /_next/static/chunks/c49dea1758b0d67e.js HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Referer: https://cinesrc.st/embed/movie/550
+Cookie: <REDACTED>
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+date: Fri, 12 Jun 2026 09:46:42 GMT
+content-type: application/javascript; charset=UTF-8
+accept-ranges: bytes
+cache-control: public, max-age=31536000, immutable
+content-encoding: gzip
+etag: W/"1ec1-19eb8598a7a"
+last-modified: Thu, 11 Jun 2026 20:22:16 GMT
+server: cloudflare
+vary: Accept-Encoding
+age: 46830
+cf-cache-status: HIT
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KL46hVb33Qb7KEvcHrv%2B5hdoP2X6U%2F%2BC6iNn414%2BT1%2FgLi%2FGB7b6dQ5AUgMf4eMLoEOrW8coM0dH6hcYVzOvO2PHFYImwWBTsrysoySoKmK0c8MZnhmrFMtj%2FITailfsy2ilAjvVIQhH"}]}
+cf-ray: a0a7ee0b8d54ff73-BOM
+alt-svc: h3=":443"; ma=86400
+X-Firefox-Spdy: h2
+
+
+
+============================================================
+#55  GET  https://cinesrc.st/_next/static/chunks/turbopack-1c94315b897a4e17.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /_next/static/chunks/turbopack-1c94315b897a4e17.js HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Referer: https://cinesrc.st/embed/movie/550
+Cookie: <REDACTED>
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+date: Fri, 12 Jun 2026 09:46:41 GMT
+content-type: application/javascript; charset=UTF-8
+accept-ranges: bytes
+cache-control: public, max-age=31536000, immutable
+content-encoding: gzip
+etag: W/"281c-19eb8598a6f"
+last-modified: Thu, 11 Jun 2026 20:22:16 GMT
+server: cloudflare
+vary: Accept-Encoding
+age: 46865
+cf-cache-status: HIT
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=hbIyAuIuZIDAjEppMjC9o9AN%2BH7SuWVz4jltGGf6DRw72zGPWht8xwlgoKhDbseBIcwDE0FtjmHpQ9dEtYIxfdk0pmgaewfYRdMN8k3s%2FnxG34faaHxinSwAIElg9lkW99fmQ9Tr5SqQ"}]}
+cf-ray: a0a7ee0b8d52ff73-BOM
+alt-svc: h3=":443"; ma=86400
+X-Firefox-Spdy: h2
+
+
+
+============================================================
+#56  GET  https://cinesrc.st/_next/static/chunks/96d6975ee8751e00.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /_next/static/chunks/96d6975ee8751e00.js HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Referer: https://cinesrc.st/embed/movie/550
+Cookie: <REDACTED>
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+date: Fri, 12 Jun 2026 09:46:41 GMT
+content-type: application/javascript; charset=UTF-8
+accept-ranges: bytes
+cache-control: public, max-age=31536000, immutable
+content-encoding: gzip
+etag: W/"a3fc-19eb8598a7f"
+last-modified: Thu, 11 Jun 2026 20:22:16 GMT
+server: cloudflare
+vary: Accept-Encoding
+age: 46830
+cf-cache-status: HIT
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=DzvqXV6lJMtOP0oCoRjTE5pvAdSkobPCk6o8m63VeNYaPgw4gnWzX1DiupmLpzeXds3VPEANCHdsSaiNXEYkl2QHqhJriBEjETpPN6VnQToSyUZwD%2BtAdqFuvaH8DOQYgbkVt6TiiWTm"}]}
+cf-ray: a0a7ee0b8d4cff73-BOM
+alt-svc: h3=":443"; ma=86400
+X-Firefox-Spdy: h2
+
+
+
+============================================================
+#57  GET  https://cinesrc.st/_next/static/chunks/a5ca7aece8e5dba2.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /_next/static/chunks/a5ca7aece8e5dba2.js HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Referer: https://cinesrc.st/embed/movie/550
+Cookie: <REDACTED>
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+date: Fri, 12 Jun 2026 09:46:41 GMT
+content-type: application/javascript; charset=UTF-8
+accept-ranges: bytes
+cache-control: public, max-age=31536000, immutable
+content-encoding: gzip
+etag: W/"149dd-19eb8598a65"
+last-modified: Thu, 11 Jun 2026 20:22:16 GMT
+server: cloudflare
+vary: Accept-Encoding
+age: 46830
+cf-cache-status: HIT
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=W96%2F9d496baw%2B9hJWAA7900Gh940k%2FT1ct6wLS%2FaGrclqMnMTDWwUcuy4XqaiHIQf8ZIniTCwOS12P%2BReAlDOe60lrW71sQgJV52OzGkMMuX1L56XP5YXbfol3zm1jxlqBZhV%2Bac7oa%2F"}]}
+cf-ray: a0a7ee0b8d46ff73-BOM
+alt-svc: h3=":443"; ma=86400
+X-Firefox-Spdy: h2
+
+
+
+============================================================
+#58  GET  https://cinesrc.st/_next/static/chunks/7416a5e7895a96f5.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /_next/static/chunks/7416a5e7895a96f5.js HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Referer: https://cinesrc.st/embed/movie/550
+Cookie: <REDACTED>
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+date: Fri, 12 Jun 2026 09:46:41 GMT
+content-type: application/javascript; charset=UTF-8
+accept-ranges: bytes
+cache-control: public, max-age=31536000, immutable
+content-encoding: gzip
+etag: W/"368dc-19eb8598a75"
+last-modified: Thu, 11 Jun 2026 20:22:16 GMT
+server: cloudflare
+vary: Accept-Encoding
+age: 46830
+cf-cache-status: HIT
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=u23bhifyMU0mdM5uEu5pvk7IfkPdevNSE1wWj3RFojdDrLB1R%2FbyxgF4eKy%2F9biSuZnxOSle59FccFuztw78Uqj2Jt4UWCdoJVW6OO9q37dVaVoDk8yvSmTsQCxByHBc8Re%2FDHoVc2WO"}]}
+cf-ray: a0a7ee0b8d41ff73-BOM
+alt-svc: h3=":443"; ma=86400
+X-Firefox-Spdy: h2
+
+
+
+============================================================
+#59  GET  https://cinesrc.st/_next/static/chunks/d1cc58c9a36a055b.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /_next/static/chunks/d1cc58c9a36a055b.js HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Referer: https://cinesrc.st/embed/movie/550
+Cookie: <REDACTED>
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+date: Fri, 12 Jun 2026 09:46:41 GMT
+content-type: application/javascript; charset=UTF-8
+accept-ranges: bytes
+cache-control: public, max-age=31536000, immutable
+content-encoding: gzip
+etag: W/"a23c-19eb8598a80"
+last-modified: Thu, 11 Jun 2026 20:22:16 GMT
+server: cloudflare
+vary: Accept-Encoding
+age: 46830
+cf-cache-status: HIT
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ZZYZmEZnPX%2BgyjHv892HJoZR3lvGUGSPTTdksHJyliU%2BK6%2FDrRcpckDtOutCXbCS2E8zFv1DVKEE35QFEJa7h%2FZpsxxJkV5GP3KtkEwiDwXIUAqq6ugk4bUdpjJW2UwYs1DuIbF0oB8b"}]}
+cf-ray: a0a7ee0b8d38ff73-BOM
+alt-svc: h3=":443"; ma=86400
+X-Firefox-Spdy: h2
+
+
+
+============================================================
+#60  GET  https://cinesrc.st/_next/static/chunks/bc59313b9106dcf9.js
+------------------------------------------------------------
+--- REQUEST ---
+GET /_next/static/chunks/bc59313b9106dcf9.js HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Referer: https://cinesrc.st/embed/movie/550
+Cookie: <REDACTED>
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+date: Fri, 12 Jun 2026 09:46:41 GMT
+content-type: application/javascript; charset=UTF-8
+accept-ranges: bytes
+cache-control: public, max-age=31536000, immutable
+content-encoding: gzip
+etag: W/"21ca-19eb8598a6f"
+last-modified: Thu, 11 Jun 2026 20:22:16 GMT
+server: cloudflare
+vary: Accept-Encoding
+age: 46830
+cf-cache-status: HIT
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lSPExWs9Vft9uKNrK9R6RNCJTdJ4REJB1Zf1g22PRAlvg%2Fe0sltG3QxKiUl86PtChTPNXjqCeFhRMZ1M%2FKQiDm3AWkH0EjKcAQETWWxCmAe7g2ENQcsMKMerBPY%2F1izpexiQsoZTHpD1"}]}
+cf-ray: a0a7ee0b8d30ff73-BOM
+alt-svc: h3=":443"; ma=86400
+X-Firefox-Spdy: h2
+
+
+
+============================================================
+#61  GET  https://nebula.bright67.online/hls/195a125d-c77f-4824-84b4-96a6b20d0ea3/720p/playlist_002.jpeg
+------------------------------------------------------------
+--- REQUEST ---
+GET /hls/195a125d-c77f-4824-84b4-96a6b20d0ea3/720p/playlist_002.jpeg HTTP/1.1
+Host: nebula.bright67.online
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Origin: https://cinesrc.st
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+
+--- RESPONSE ---
+No response data available.
+
+============================================================
+#62  GET  https://nebula.bright67.online/hls/195a125d-c77f-4824-84b4-96a6b20d0ea3/720p/init.mp4
+------------------------------------------------------------
+--- REQUEST ---
+GET /hls/195a125d-c77f-4824-84b4-96a6b20d0ea3/720p/init.mp4 HTTP/1.1
+Host: nebula.bright67.online
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Origin: https://cinesrc.st
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+date: Fri, 12 Jun 2026 09:50:23 GMT
+content-type: video/mp4
+access-control-allow-origin: *
+cache-control: public, max-age=31536000
+age: 103407
+last-modified: Thu, 11 Jun 2026 10:40:46 GMT
+expires: Sat, 12 Jun 2027 09:50:23 GMT
+cf-cache-status: HIT
+server: cloudflare
+cf-ray: a0a7f37709ffff73-BOM
+X-Firefox-Spdy: h2
+
+
+
+============================================================
+#63  GET  https://cinesrc.st/_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2
+------------------------------------------------------------
+--- REQUEST ---
+GET /_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2 HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+X-Moz: early hint
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Referer: https://cinesrc.st/embed/movie/550
+Cookie: <REDACTED>
+Sec-Fetch-Dest: font
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:48:56 GMT
+content-type: font/woff2
+content-length: 29288
+accept-ranges: bytes
+cache-control: public, max-age=31536000, immutable
+etag: W/"7268-19eb8598a7a"
+last-modified: Thu, 11 Jun 2026 20:22:16 GMT
+server: cloudflare
+age: 15832
+cf-cache-status: HIT
+priority: u=3,i=?0
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=hwpHxrVSydVyslkKK8uJPJvEhQh8URobU%2FOI8PH54r3QT9SVYkufMUBvsMkKjx%2BEFIc27AHwlN%2BA9FgJsJAfK9VSXtz7HLFUy0onpBqcpyKZuoLG9zEjwL9ZNVHaLivp%2Fc6JiXfyZsS1"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: a0a7f156a89cff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#64  GET  https://cinesrc.st/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2
+------------------------------------------------------------
+--- REQUEST ---
+GET /_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2 HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+X-Moz: early hint
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Referer: https://cinesrc.st/embed/movie/550
+Cookie: <REDACTED>
+Sec-Fetch-Dest: font
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:48:56 GMT
+content-type: font/woff2
+content-length: 48432
+accept-ranges: bytes
+cache-control: public, max-age=31536000, immutable
+etag: W/"bd30-19eb8598a83"
+last-modified: Thu, 11 Jun 2026 20:22:16 GMT
+server: cloudflare
+age: 15832
+cf-cache-status: HIT
+priority: u=3,i=?0
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Gl7qdJ0NPbLKhCVLpeF09dzhmYqekDd22x%2BFuUJ5UcZ8aOO5%2F%2Bbn8dQR4oSiN5TBb2detGxGkKCqnmg4FlaAXGcW4xwawbLlNz3O5LUTQpg4Z8Bmp82pKh84ffSlBPTp2CUmchA3YlOa"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: a0a7f156a898ff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#65  GET  https://cinesrc.st/_next/static/media/797e433ab948586e-s.p.29207c2f.woff2
+------------------------------------------------------------
+--- REQUEST ---
+GET /_next/static/media/797e433ab948586e-s.p.29207c2f.woff2 HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+X-Moz: early hint
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Referer: https://cinesrc.st/embed/movie/550
+Cookie: <REDACTED>
+Sec-Fetch-Dest: font
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:48:56 GMT
+content-type: font/woff2
+content-length: 23108
+accept-ranges: bytes
+cache-control: public, max-age=31536000, immutable
+etag: W/"5a44-19eb8598a6e"
+last-modified: Thu, 11 Jun 2026 20:22:16 GMT
+server: cloudflare
+age: 8269
+cf-cache-status: HIT
+priority: u=3,i=?0
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=azZgynLpAegzzQRdQ1dc79v0Jy1XR14VKxIL%2F82Uf%2BplmrdRic2kuI7ovb0Hr00F2Oec5fyKZuObzUliqx%2BjDZi3PQlw51imOCMw0UTaTxupwoI%2FSSnl720QEMvnSg%2BhyZmR5sIWW6L%2F"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: a0a7f156a896ff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#66  GET  https://nebula.bright67.online/hls/195a125d-c77f-4824-84b4-96a6b20d0ea3/720p/playlist.jpg
+------------------------------------------------------------
+--- REQUEST ---
+GET /hls/195a125d-c77f-4824-84b4-96a6b20d0ea3/720p/playlist.jpg HTTP/1.1
+Host: nebula.bright67.online
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Origin: https://cinesrc.st
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+date: Fri, 12 Jun 2026 09:50:23 GMT
+content-type: image/jpeg
+content-length: 29143
+access-control-allow-origin: *
+cache-control: public, max-age=31536000
+accept-ranges: bytes
+age: 97942
+last-modified: Thu, 11 Jun 2026 10:40:46 GMT
+expires: Sat, 12 Jun 2027 09:50:23 GMT
+cf-cache-status: HIT
+server: cloudflare
+cf-ray: a0a7f376781cff73-BOM
+X-Firefox-Spdy: h2
+
+
+
+============================================================
+#67  GET  https://cinesrc.st/embed/movie/550
+------------------------------------------------------------
+--- REQUEST ---
+GET /embed/movie/550 HTTP/3.0
+Host: cinesrc.st
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Alt-Used: cinesrc.st
+Connection: keep-alive
+Cookie: <REDACTED>
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+
+
+
+--- RESPONSE ---
+HTTP/3.0 200
+date: Fri, 12 Jun 2026 09:50:23 GMT
+content-type: text/html; charset=utf-8
+cache-control: private, no-cache, no-store, max-age=0, must-revalidate
+priority: u=0,i
+link: </_next/static/media/797e433ab948586e-s.p.29207c2f.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2"
+server: cloudflare
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding
+x-powered-by: Next.js
+cf-cache-status: DYNAMIC
+speculation-rules: "/cdn-cgi/speculation"
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=q%2Fm649HS%2BwSAPuXE%2B9hhK6nuLaClnmFcYTxra7GiDEu9MtR70ohUFJ10tK7%2BdbEnzsNq%2FUv0JKiJfXiBjWQVtCE5G74jtwt3YSl%2FpwCUCbb1zEZK2ZmPVYw2ddDgSbagOKguIJ676eAj"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+content-encoding: zstd
+cf-ray: a0a7f3767810ff73-BOM
+alt-svc: h3=":443"; ma=86400
+server-timing: cfCacheStatus;desc="DYNAMIC", cfEdge;dur=2,cfOrigin;dur=209, cfExtPri
+X-Firefox-Http3: h3
+
+
+
+============================================================
+#68  POST  https://usrpubtrk.com/ut/hb.php?cb=0.06046787060226899&v=1
+------------------------------------------------------------
+--- REQUEST ---
+POST /ut/hb.php?cb=0.06046787060226899&v=1 HTTP/1.1
+Host: usrpubtrk.com
+
+{"clientHints":{},"isScrollable":0,"totalClicks":4,"sessionLength":23,"ippMissclicks":0,"visible":1,"caught":0,"lastevent":1,"isFullscreen":0,"isTabFocused":1,"eventImps":0,"retryCounts":0,"isScrolled":0,"isMouseMoved":1,"pagePercentageSeen":100,"belowTheFoldSeen":100,"touchEnd":0,"touchMove":0,"clicksByType":{"idle":1,"input":0,"video":1,"button":2,"link":0,"img":0},"ufp":"Win32/Mozilla/Netscape/true/false/1920x1080-330en-USunknown1224 bits","sessionStartTime":1781257802,"sessionId":"<REDACTED>","timeZoneOffset":-330,"zones":[],"pUrl":"https%3A%2F%2Fcinesrc.st%2Fembed%2Fmovie%2F550","pReferrer":"","pTitle":"CineSrc%20-%20Free%20Video%20Streaming%20API%20%7C%20Embed%20Movies%20&%20TV%20Shows","pDescription":"CineSrc%20offers%20a%20free%20video%20streaming%20API%20with%20minimal%20ads.%20Easily%20embed%20movies%20and%20TV%20shows%20into%20your%20website%20using%20TMDB%20IDs.%20Built%20by%20the%20ShuttleTV%20team.","pKeywords":"video%20streaming%20API%2Cembed%20movies%2Cembed%20TV%20shows%2Cfree%20streaming%2CTMDB%2Cmovie%20API%2CTV%20show%20API%2Cstreaming%20embed%2CCineSrc%2CShuttleTV%2Cvidsrc%2Cmoviesapi%20club","pHasIframes":0,"pWidth":1920,"pHeight":936,"vWidth":1920,"vHeight":936,"inIframe":0,"bsd":"eyJwcm9iYWJpbGl0eSI6MC4wMSwicGVyU2lnbmFsIjp7ImRvZXNVQUNvbnRhaW5IZWFkbGVzc0tleXdvcmQiOmZhbHNlLCJpc1dlYkRyaXZlclByZXNlbnQiOmZhbHNlLCJpc0NEUERldGVjdGVkIjpmYWxzZSwiYXV0b21hdGVkQnJvd3Nlckdsb2JhbHMiOmZhbHNlLCJpc1dpbmRvd0NEQyI6ZmFsc2UsImlzRmlyZWZveE1pc21hdGNoIjpmYWxzZSwiaW5jb25zaXN0ZW5jaWVzIjpmYWxzZSwiaXNDaHJvbWVGb3JUZXN0aW5nIjpmYWxzZSwibWlzc2luZ1dlYlJUQyI6ZmFsc2UsImRldGVjdENTU0Fub21hbGllcyI6ZmFsc2UsImlzSGVhZGxlc3NQZXJtaXNzaW9uTWF0Y2hlZCI6ZmFsc2UsInN1c1VzZXJJbnB1dCI6ZmFsc2V9fQ==","sentTimestamp":1781257825421}
+
+--- RESPONSE ---
+No response data available.
+
+============================================================
+#69  GET  https://nebula.bright67.online/hls/195a125d-c77f-4824-84b4-96a6b20d0ea3/1080p/playlist_002.jpeg
+------------------------------------------------------------
+--- REQUEST ---
+GET /hls/195a125d-c77f-4824-84b4-96a6b20d0ea3/1080p/playlist_002.jpeg HTTP/1.1
+Host: nebula.bright67.online
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+Accept: */*
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br, zstd
+Referer: https://cinesrc.st/
+Origin: https://cinesrc.st
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
+
+
+--- RESPONSE ---
+HTTP/2.0 200
+date: Fri, 12 Jun 2026 09:50:23 GMT
+content-type: image/jpeg
+access-control-allow-origin: *
+cache-control: public, max-age=31536000
+last-modified: Fri, 12 Jun 2026 09:50:23 GMT
+expires: Sat, 12 Jun 2027 09:50:23 GMT
+cf-cache-status: MISS
+server: cloudflare
+cf-ray: a0a7f370f9b0ff73-BOM
+X-Firefox-Spdy: h2
+
+
